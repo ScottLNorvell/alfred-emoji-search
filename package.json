@@ -28,7 +28,10 @@
     "alfy"
   ],
   "dependencies": {
-    "alfy": "^0.6.0"
+    "alfy": "^0.6.0",
+    "cheerio": "^1.0.0-rc.3",
+    "fuse.js": "^5.2.3",
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {
     "alfy-test": "^0.3.0",
