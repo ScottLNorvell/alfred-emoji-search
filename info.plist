@@ -22,6 +22,10 @@
 			</dict>
 		</array>
 	</dict>
+	<key>createdby</key>
+	<string>ScottLNorvell</string>
+	<key>description</key>
+	<string></string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -114,5 +118,7 @@
 			<integer>10</integer>
 		</dict>
 	</dict>
+	<key>webaddress</key>
+	<string>scottlnorvell.com</string>
 </dict>
 </plist>
