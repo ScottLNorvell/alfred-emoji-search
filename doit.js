@@ -3,6 +3,7 @@ const fetch = require('node-fetch');
 const cheerio = require('cheerio');
 
 const CHART = 'https://unicode.org/emoji/charts/emoji-list.html';
+const BETA = '⊛';
 
 const toEmoji = str => String.fromCodePoint(parseInt(str, 16));
 
@@ -20,6 +21,9 @@ const toSlug = name => name.split(' ').join('-');
 
 const getMeta = $elem => {
   const name = $elem.find('.name').eq(0).text();
+
+  if (name.includes(BETA)) return null;
+
   const tags = new Set($elem.find('.name').eq(1).text().split(' | '));
   tags.delete(name);
   return {
@@ -46,12 +50,14 @@ const doit = async () => {
     const $this = $(this);
     if ($this.children('td').length) {
       const meta = getMeta($this);
-      const imageInfo = getImageInfo($this, meta);
-      all.push({
-        ...meta,
-        imagePath: imageInfo[0],
-      });
-      imageInfos.push(imageInfo);
+      if (meta) {
+        const imageInfo = getImageInfo($this, meta);
+        all.push({
+          ...meta,
+          imagePath: imageInfo[0],
+        });
+        imageInfos.push(imageInfo);
+      }
     }
   });
 
