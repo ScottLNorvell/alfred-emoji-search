@@ -595,6 +595,7 @@
     "name": "face vomiting",
     "slug": "face-vomiting",
     "tags": [
+      "puke",
       "sick",
       "vomit"
     ],
@@ -1041,6 +1042,7 @@
     "name": "angry face",
     "slug": "angry-face",
     "tags": [
+      "anger",
       "angry",
       "face",
       "mad"
@@ -1673,7 +1675,7 @@
       "speech bubble",
       "witness"
     ],
-    "emoji": "👁",
+    "emoji": "👁️‍🗨️",
     "imagePath": "eye-in-speech-bubble.png"
   },
   {
@@ -2368,7 +2370,7 @@
       "man",
       "red hair"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍🦰",
     "imagePath": "man:-red-hair.png"
   },
   {
@@ -2379,7 +2381,7 @@
       "curly hair",
       "man"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍🦱",
     "imagePath": "man:-curly-hair.png"
   },
   {
@@ -2390,7 +2392,7 @@
       "man",
       "white hair"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍🦳",
     "imagePath": "man:-white-hair.png"
   },
   {
@@ -2401,7 +2403,7 @@
       "bald",
       "man"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍🦲",
     "imagePath": "man:-bald.png"
   },
   {
@@ -2421,7 +2423,7 @@
       "red hair",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍🦰",
     "imagePath": "woman:-red-hair.png"
   },
   {
@@ -2434,7 +2436,7 @@
       "red hair",
       "unspecified gender"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🦰",
     "imagePath": "person:-red-hair.png"
   },
   {
@@ -2445,7 +2447,7 @@
       "curly hair",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍🦱",
     "imagePath": "woman:-curly-hair.png"
   },
   {
@@ -2458,7 +2460,7 @@
       "person",
       "unspecified gender"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🦱",
     "imagePath": "person:-curly-hair.png"
   },
   {
@@ -2469,7 +2471,7 @@
       "white hair",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍🦳",
     "imagePath": "woman:-white-hair.png"
   },
   {
@@ -2482,7 +2484,7 @@
       "unspecified gender",
       "white hair"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🦳",
     "imagePath": "person:-white-hair.png"
   },
   {
@@ -2493,7 +2495,7 @@
       "bald",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍🦲",
     "imagePath": "woman:-bald.png"
   },
   {
@@ -2506,7 +2508,7 @@
       "person",
       "unspecified gender"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🦲",
     "imagePath": "person:-bald.png"
   },
   {
@@ -2518,7 +2520,7 @@
       "hair",
       "woman"
     ],
-    "emoji": "👱",
+    "emoji": "👱‍♀️",
     "imagePath": "woman:-blond-hair.png"
   },
   {
@@ -2530,7 +2532,7 @@
       "hair",
       "man"
     ],
-    "emoji": "👱",
+    "emoji": "👱‍♂️",
     "imagePath": "man:-blond-hair.png"
   },
   {
@@ -2585,7 +2587,7 @@
       "gesture",
       "man"
     ],
-    "emoji": "🙍",
+    "emoji": "🙍‍♂️",
     "imagePath": "man-frowning.png"
   },
   {
@@ -2596,7 +2598,7 @@
       "gesture",
       "woman"
     ],
-    "emoji": "🙍",
+    "emoji": "🙍‍♀️",
     "imagePath": "woman-frowning.png"
   },
   {
@@ -2617,7 +2619,7 @@
       "man",
       "pouting"
     ],
-    "emoji": "🙎",
+    "emoji": "🙎‍♂️",
     "imagePath": "man-pouting.png"
   },
   {
@@ -2628,7 +2630,7 @@
       "pouting",
       "woman"
     ],
-    "emoji": "🙎",
+    "emoji": "🙎‍♀️",
     "imagePath": "woman-pouting.png"
   },
   {
@@ -2653,7 +2655,7 @@
       "man",
       "prohibited"
     ],
-    "emoji": "🙅",
+    "emoji": "🙅‍♂️",
     "imagePath": "man-gesturing-NO.png"
   },
   {
@@ -2666,7 +2668,7 @@
       "prohibited",
       "woman"
     ],
-    "emoji": "🙅",
+    "emoji": "🙅‍♀️",
     "imagePath": "woman-gesturing-NO.png"
   },
   {
@@ -2689,7 +2691,7 @@
       "man",
       "OK"
     ],
-    "emoji": "🙆",
+    "emoji": "🙆‍♂️",
     "imagePath": "man-gesturing-OK.png"
   },
   {
@@ -2701,7 +2703,7 @@
       "OK",
       "woman"
     ],
-    "emoji": "🙆",
+    "emoji": "🙆‍♀️",
     "imagePath": "woman-gesturing-OK.png"
   },
   {
@@ -2725,7 +2727,7 @@
       "sassy",
       "tipping hand"
     ],
-    "emoji": "💁",
+    "emoji": "💁‍♂️",
     "imagePath": "man-tipping-hand.png"
   },
   {
@@ -2736,7 +2738,7 @@
       "tipping hand",
       "woman"
     ],
-    "emoji": "💁",
+    "emoji": "💁‍♀️",
     "imagePath": "woman-tipping-hand.png"
   },
   {
@@ -2759,7 +2761,7 @@
       "man",
       "raising hand"
     ],
-    "emoji": "🙋",
+    "emoji": "🙋‍♂️",
     "imagePath": "man-raising-hand.png"
   },
   {
@@ -2770,7 +2772,7 @@
       "raising hand",
       "woman"
     ],
-    "emoji": "🙋",
+    "emoji": "🙋‍♀️",
     "imagePath": "woman-raising-hand.png"
   },
   {
@@ -2792,7 +2794,7 @@
       "deaf",
       "man"
     ],
-    "emoji": "🧏",
+    "emoji": "🧏‍♂️",
     "imagePath": "deaf-man.png"
   },
   {
@@ -2802,7 +2804,7 @@
       "deaf",
       "woman"
     ],
-    "emoji": "🧏",
+    "emoji": "🧏‍♀️",
     "imagePath": "deaf-woman.png"
   },
   {
@@ -2828,7 +2830,7 @@
       "man",
       "sorry"
     ],
-    "emoji": "🙇",
+    "emoji": "🙇‍♂️",
     "imagePath": "man-bowing.png"
   },
   {
@@ -2842,7 +2844,7 @@
       "sorry",
       "woman"
     ],
-    "emoji": "🙇",
+    "emoji": "🙇‍♀️",
     "imagePath": "woman-bowing.png"
   },
   {
@@ -2866,7 +2868,7 @@
       "facepalm",
       "man"
     ],
-    "emoji": "🤦",
+    "emoji": "🤦‍♂️",
     "imagePath": "man-facepalming.png"
   },
   {
@@ -2878,7 +2880,7 @@
       "facepalm",
       "woman"
     ],
-    "emoji": "🤦",
+    "emoji": "🤦‍♀️",
     "imagePath": "woman-facepalming.png"
   },
   {
@@ -2903,7 +2905,7 @@
       "man",
       "shrug"
     ],
-    "emoji": "🤷",
+    "emoji": "🤷‍♂️",
     "imagePath": "man-shrugging.png"
   },
   {
@@ -2916,7 +2918,7 @@
       "shrug",
       "woman"
     ],
-    "emoji": "🤷",
+    "emoji": "🤷‍♀️",
     "imagePath": "woman-shrugging.png"
   },
   {
@@ -2928,7 +2930,7 @@
       "nurse",
       "therapist"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍⚕️",
     "imagePath": "health-worker.png"
   },
   {
@@ -2941,7 +2943,7 @@
       "nurse",
       "therapist"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍⚕️",
     "imagePath": "man-health-worker.png"
   },
   {
@@ -2954,7 +2956,7 @@
       "therapist",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍⚕️",
     "imagePath": "woman-health-worker.png"
   },
   {
@@ -2963,7 +2965,7 @@
     "tags": [
       "graduate"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🎓",
     "imagePath": "student.png"
   },
   {
@@ -2974,7 +2976,7 @@
       "man",
       "student"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍🎓",
     "imagePath": "man-student.png"
   },
   {
@@ -2985,7 +2987,7 @@
       "student",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍🎓",
     "imagePath": "woman-student.png"
   },
   {
@@ -2995,7 +2997,7 @@
       "instructor",
       "professor"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🏫",
     "imagePath": "teacher.png"
   },
   {
@@ -3007,7 +3009,7 @@
       "professor",
       "teacher"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍🏫",
     "imagePath": "man-teacher.png"
   },
   {
@@ -3019,7 +3021,7 @@
       "teacher",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍🏫",
     "imagePath": "woman-teacher.png"
   },
   {
@@ -3029,7 +3031,7 @@
       "justice",
       "scales"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍⚖️",
     "imagePath": "judge.png"
   },
   {
@@ -3041,7 +3043,7 @@
       "man",
       "scales"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍⚖️",
     "imagePath": "man-judge.png"
   },
   {
@@ -3053,7 +3055,7 @@
       "scales",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍⚖️",
     "imagePath": "woman-judge.png"
   },
   {
@@ -3063,7 +3065,7 @@
       "gardener",
       "rancher"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🌾",
     "imagePath": "farmer.png"
   },
   {
@@ -3075,7 +3077,7 @@
       "man",
       "rancher"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍🌾",
     "imagePath": "man-farmer.png"
   },
   {
@@ -3087,7 +3089,7 @@
       "rancher",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍🌾",
     "imagePath": "woman-farmer.png"
   },
   {
@@ -3096,7 +3098,7 @@
     "tags": [
       "chef"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🍳",
     "imagePath": "cook.png"
   },
   {
@@ -3107,7 +3109,7 @@
       "cook",
       "man"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍🍳",
     "imagePath": "man-cook.png"
   },
   {
@@ -3118,7 +3120,7 @@
       "cook",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍🍳",
     "imagePath": "woman-cook.png"
   },
   {
@@ -3129,7 +3131,7 @@
       "plumber",
       "tradesperson"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🔧",
     "imagePath": "mechanic.png"
   },
   {
@@ -3142,7 +3144,7 @@
       "plumber",
       "tradesperson"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍🔧",
     "imagePath": "man-mechanic.png"
   },
   {
@@ -3155,7 +3157,7 @@
       "tradesperson",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍🔧",
     "imagePath": "woman-mechanic.png"
   },
   {
@@ -3167,7 +3169,7 @@
       "industrial",
       "worker"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🏭",
     "imagePath": "factory-worker.png"
   },
   {
@@ -3180,7 +3182,7 @@
       "man",
       "worker"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍🏭",
     "imagePath": "man-factory-worker.png"
   },
   {
@@ -3193,7 +3195,7 @@
       "woman",
       "worker"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍🏭",
     "imagePath": "woman-factory-worker.png"
   },
   {
@@ -3205,7 +3207,7 @@
       "manager",
       "white-collar"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍💼",
     "imagePath": "office-worker.png"
   },
   {
@@ -3218,7 +3220,7 @@
       "manager",
       "white-collar"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍💼",
     "imagePath": "man-office-worker.png"
   },
   {
@@ -3231,7 +3233,7 @@
       "white-collar",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍💼",
     "imagePath": "woman-office-worker.png"
   },
   {
@@ -3243,7 +3245,7 @@
       "engineer",
       "physicist"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🔬",
     "imagePath": "scientist.png"
   },
   {
@@ -3257,7 +3259,7 @@
       "physicist",
       "scientist"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍🔬",
     "imagePath": "man-scientist.png"
   },
   {
@@ -3271,7 +3273,7 @@
       "scientist",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍🔬",
     "imagePath": "woman-scientist.png"
   },
   {
@@ -3283,7 +3285,7 @@
       "inventor",
       "software"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍💻",
     "imagePath": "technologist.png"
   },
   {
@@ -3297,7 +3299,7 @@
       "software",
       "technologist"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍💻",
     "imagePath": "man-technologist.png"
   },
   {
@@ -3311,7 +3313,7 @@
       "technologist",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍💻",
     "imagePath": "woman-technologist.png"
   },
   {
@@ -3323,7 +3325,7 @@
       "rock",
       "star"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🎤",
     "imagePath": "singer.png"
   },
   {
@@ -3337,7 +3339,7 @@
       "singer",
       "star"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍🎤",
     "imagePath": "man-singer.png"
   },
   {
@@ -3351,7 +3353,7 @@
       "star",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍🎤",
     "imagePath": "woman-singer.png"
   },
   {
@@ -3360,7 +3362,7 @@
     "tags": [
       "palette"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🎨",
     "imagePath": "artist.png"
   },
   {
@@ -3371,7 +3373,7 @@
       "man",
       "palette"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍🎨",
     "imagePath": "man-artist.png"
   },
   {
@@ -3382,7 +3384,7 @@
       "palette",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍🎨",
     "imagePath": "woman-artist.png"
   },
   {
@@ -3391,7 +3393,7 @@
     "tags": [
       "plane"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍✈️",
     "imagePath": "pilot.png"
   },
   {
@@ -3402,7 +3404,7 @@
       "pilot",
       "plane"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍✈️",
     "imagePath": "man-pilot.png"
   },
   {
@@ -3413,7 +3415,7 @@
       "plane",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍✈️",
     "imagePath": "woman-pilot.png"
   },
   {
@@ -3422,7 +3424,7 @@
     "tags": [
       "rocket"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🚀",
     "imagePath": "astronaut.png"
   },
   {
@@ -3433,7 +3435,7 @@
       "man",
       "rocket"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍🚀",
     "imagePath": "man-astronaut.png"
   },
   {
@@ -3444,7 +3446,7 @@
       "rocket",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍🚀",
     "imagePath": "woman-astronaut.png"
   },
   {
@@ -3453,7 +3455,7 @@
     "tags": [
       "firetruck"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🚒",
     "imagePath": "firefighter.png"
   },
   {
@@ -3464,7 +3466,7 @@
       "firetruck",
       "man"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍🚒",
     "imagePath": "man-firefighter.png"
   },
   {
@@ -3475,7 +3477,7 @@
       "firetruck",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍🚒",
     "imagePath": "woman-firefighter.png"
   },
   {
@@ -3498,7 +3500,7 @@
       "officer",
       "police"
     ],
-    "emoji": "👮",
+    "emoji": "👮‍♂️",
     "imagePath": "man-police-officer.png"
   },
   {
@@ -3510,7 +3512,7 @@
       "police",
       "woman"
     ],
-    "emoji": "👮",
+    "emoji": "👮‍♀️",
     "imagePath": "woman-police-officer.png"
   },
   {
@@ -3532,7 +3534,7 @@
       "sleuth",
       "spy"
     ],
-    "emoji": "🕵",
+    "emoji": "🕵️‍♂️",
     "imagePath": "man-detective.png"
   },
   {
@@ -3544,7 +3546,7 @@
       "spy",
       "woman"
     ],
-    "emoji": "🕵",
+    "emoji": "🕵️‍♀️",
     "imagePath": "woman-detective.png"
   },
   {
@@ -3561,7 +3563,7 @@
       "guard",
       "man"
     ],
-    "emoji": "💂",
+    "emoji": "💂‍♂️",
     "imagePath": "man-guard.png"
   },
   {
@@ -3571,7 +3573,7 @@
       "guard",
       "woman"
     ],
-    "emoji": "💂",
+    "emoji": "💂‍♀️",
     "imagePath": "woman-guard.png"
   },
   {
@@ -3604,7 +3606,7 @@
       "man",
       "worker"
     ],
-    "emoji": "👷",
+    "emoji": "👷‍♂️",
     "imagePath": "man-construction-worker.png"
   },
   {
@@ -3615,7 +3617,7 @@
       "woman",
       "worker"
     ],
-    "emoji": "👷",
+    "emoji": "👷‍♀️",
     "imagePath": "woman-construction-worker.png"
   },
   {
@@ -3651,7 +3653,7 @@
       "man",
       "turban"
     ],
-    "emoji": "👳",
+    "emoji": "👳‍♂️",
     "imagePath": "man-wearing-turban.png"
   },
   {
@@ -3661,7 +3663,7 @@
       "turban",
       "woman"
     ],
-    "emoji": "👳",
+    "emoji": "👳‍♀️",
     "imagePath": "woman-wearing-turban.png"
   },
   {
@@ -3709,7 +3711,7 @@
       "man",
       "tuxedo"
     ],
-    "emoji": "🤵",
+    "emoji": "🤵‍♂️",
     "imagePath": "man-in-tuxedo.png"
   },
   {
@@ -3719,7 +3721,7 @@
       "tuxedo",
       "woman"
     ],
-    "emoji": "🤵",
+    "emoji": "🤵‍♀️",
     "imagePath": "woman-in-tuxedo.png"
   },
   {
@@ -3741,7 +3743,7 @@
       "man",
       "veil"
     ],
-    "emoji": "👰",
+    "emoji": "👰‍♂️",
     "imagePath": "man-with-veil.png"
   },
   {
@@ -3751,7 +3753,7 @@
       "veil",
       "woman"
     ],
-    "emoji": "👰",
+    "emoji": "👰‍♀️",
     "imagePath": "woman-with-veil.png"
   },
   {
@@ -3784,7 +3786,7 @@
       "nursing",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍🍼",
     "imagePath": "woman-feeding-baby.png"
   },
   {
@@ -3796,7 +3798,7 @@
       "man",
       "nursing"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍🍼",
     "imagePath": "man-feeding-baby.png"
   },
   {
@@ -3808,7 +3810,7 @@
       "nursing",
       "person"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🍼",
     "imagePath": "person-feeding-baby.png"
   },
   {
@@ -3856,7 +3858,7 @@
     "tags": [
       "Claus, christmas"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🎄",
     "imagePath": "mx-claus.png"
   },
   {
@@ -3880,7 +3882,7 @@
       "man",
       "superpower"
     ],
-    "emoji": "🦸",
+    "emoji": "🦸‍♂️",
     "imagePath": "man-superhero.png"
   },
   {
@@ -3893,7 +3895,7 @@
       "superpower",
       "woman"
     ],
-    "emoji": "🦸",
+    "emoji": "🦸‍♀️",
     "imagePath": "woman-superhero.png"
   },
   {
@@ -3918,7 +3920,7 @@
       "superpower",
       "villain"
     ],
-    "emoji": "🦹",
+    "emoji": "🦹‍♂️",
     "imagePath": "man-supervillain.png"
   },
   {
@@ -3931,7 +3933,7 @@
       "villain",
       "woman"
     ],
-    "emoji": "🦹",
+    "emoji": "🦹‍♀️",
     "imagePath": "woman-supervillain.png"
   },
   {
@@ -3953,7 +3955,7 @@
       "sorcerer",
       "wizard"
     ],
-    "emoji": "🧙",
+    "emoji": "🧙‍♂️",
     "imagePath": "man-mage.png"
   },
   {
@@ -3963,7 +3965,7 @@
       "sorceress",
       "witch"
     ],
-    "emoji": "🧙",
+    "emoji": "🧙‍♀️",
     "imagePath": "woman-mage.png"
   },
   {
@@ -3984,7 +3986,7 @@
       "Oberon",
       "Puck"
     ],
-    "emoji": "🧚",
+    "emoji": "🧚‍♂️",
     "imagePath": "man-fairy.png"
   },
   {
@@ -3993,7 +3995,7 @@
     "tags": [
       "Titania"
     ],
-    "emoji": "🧚",
+    "emoji": "🧚‍♀️",
     "imagePath": "woman-fairy.png"
   },
   {
@@ -4013,7 +4015,7 @@
       "Dracula",
       "undead"
     ],
-    "emoji": "🧛",
+    "emoji": "🧛‍♂️",
     "imagePath": "man-vampire.png"
   },
   {
@@ -4022,7 +4024,7 @@
     "tags": [
       "undead"
     ],
-    "emoji": "🧛",
+    "emoji": "🧛‍♀️",
     "imagePath": "woman-vampire.png"
   },
   {
@@ -4042,7 +4044,7 @@
     "tags": [
       "Triton"
     ],
-    "emoji": "🧜",
+    "emoji": "🧜‍♂️",
     "imagePath": "merman.png"
   },
   {
@@ -4051,7 +4053,7 @@
     "tags": [
       "merwoman"
     ],
-    "emoji": "🧜",
+    "emoji": "🧜‍♀️",
     "imagePath": "mermaid.png"
   },
   {
@@ -4070,7 +4072,7 @@
     "tags": [
       "magical"
     ],
-    "emoji": "🧝",
+    "emoji": "🧝‍♂️",
     "imagePath": "man-elf.png"
   },
   {
@@ -4079,7 +4081,7 @@
     "tags": [
       "magical"
     ],
-    "emoji": "🧝",
+    "emoji": "🧝‍♀️",
     "imagePath": "woman-elf.png"
   },
   {
@@ -4098,7 +4100,7 @@
     "tags": [
       "djinn"
     ],
-    "emoji": "🧞",
+    "emoji": "🧞‍♂️",
     "imagePath": "man-genie.png"
   },
   {
@@ -4107,7 +4109,7 @@
     "tags": [
       "djinn"
     ],
-    "emoji": "🧞",
+    "emoji": "🧞‍♀️",
     "imagePath": "woman-genie.png"
   },
   {
@@ -4128,7 +4130,7 @@
       "undead",
       "walking dead"
     ],
-    "emoji": "🧟",
+    "emoji": "🧟‍♂️",
     "imagePath": "man-zombie.png"
   },
   {
@@ -4138,7 +4140,7 @@
       "undead",
       "walking dead"
     ],
-    "emoji": "🧟",
+    "emoji": "🧟‍♀️",
     "imagePath": "woman-zombie.png"
   },
   {
@@ -4160,7 +4162,7 @@
       "man",
       "massage"
     ],
-    "emoji": "💆",
+    "emoji": "💆‍♂️",
     "imagePath": "man-getting-massage.png"
   },
   {
@@ -4171,7 +4173,7 @@
       "massage",
       "woman"
     ],
-    "emoji": "💆",
+    "emoji": "💆‍♀️",
     "imagePath": "woman-getting-massage.png"
   },
   {
@@ -4193,7 +4195,7 @@
       "haircut",
       "man"
     ],
-    "emoji": "💇",
+    "emoji": "💇‍♂️",
     "imagePath": "man-getting-haircut.png"
   },
   {
@@ -4203,7 +4205,7 @@
       "haircut",
       "woman"
     ],
-    "emoji": "💇",
+    "emoji": "💇‍♀️",
     "imagePath": "woman-getting-haircut.png"
   },
   {
@@ -4225,7 +4227,7 @@
       "man",
       "walk"
     ],
-    "emoji": "🚶",
+    "emoji": "🚶‍♂️",
     "imagePath": "man-walking.png"
   },
   {
@@ -4236,7 +4238,7 @@
       "walk",
       "woman"
     ],
-    "emoji": "🚶",
+    "emoji": "🚶‍♀️",
     "imagePath": "woman-walking.png"
   },
   {
@@ -4256,7 +4258,7 @@
       "man",
       "standing"
     ],
-    "emoji": "🧍",
+    "emoji": "🧍‍♂️",
     "imagePath": "man-standing.png"
   },
   {
@@ -4266,7 +4268,7 @@
       "standing",
       "woman"
     ],
-    "emoji": "🧍",
+    "emoji": "🧍‍♀️",
     "imagePath": "woman-standing.png"
   },
   {
@@ -4286,7 +4288,7 @@
       "kneeling",
       "man"
     ],
-    "emoji": "🧎",
+    "emoji": "🧎‍♂️",
     "imagePath": "man-kneeling.png"
   },
   {
@@ -4296,7 +4298,7 @@
       "kneeling",
       "woman"
     ],
-    "emoji": "🧎",
+    "emoji": "🧎‍♀️",
     "imagePath": "woman-kneeling.png"
   },
   {
@@ -4306,7 +4308,7 @@
       "accessibility",
       "blind"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🦯",
     "imagePath": "person-with-white-cane.png"
   },
   {
@@ -4317,7 +4319,7 @@
       "blind",
       "man"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍🦯",
     "imagePath": "man-with-white-cane.png"
   },
   {
@@ -4328,7 +4330,7 @@
       "blind",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍🦯",
     "imagePath": "woman-with-white-cane.png"
   },
   {
@@ -4338,7 +4340,7 @@
       "accessibility",
       "wheelchair"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🦼",
     "imagePath": "person-in-motorized-wheelchair.png"
   },
   {
@@ -4349,7 +4351,7 @@
       "man",
       "wheelchair"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍🦼",
     "imagePath": "man-in-motorized-wheelchair.png"
   },
   {
@@ -4360,7 +4362,7 @@
       "wheelchair",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍🦼",
     "imagePath": "woman-in-motorized-wheelchair.png"
   },
   {
@@ -4370,7 +4372,7 @@
       "accessibility",
       "wheelchair"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🦽",
     "imagePath": "person-in-manual-wheelchair.png"
   },
   {
@@ -4381,7 +4383,7 @@
       "man",
       "wheelchair"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍🦽",
     "imagePath": "man-in-manual-wheelchair.png"
   },
   {
@@ -4392,7 +4394,7 @@
       "wheelchair",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍🦽",
     "imagePath": "woman-in-manual-wheelchair.png"
   },
   {
@@ -4414,7 +4416,7 @@
       "racing",
       "running"
     ],
-    "emoji": "🏃",
+    "emoji": "🏃‍♂️",
     "imagePath": "man-running.png"
   },
   {
@@ -4426,7 +4428,7 @@
       "running",
       "woman"
     ],
-    "emoji": "🏃",
+    "emoji": "🏃‍♀️",
     "imagePath": "woman-running.png"
   },
   {
@@ -4482,7 +4484,7 @@
       "men",
       "partying"
     ],
-    "emoji": "👯",
+    "emoji": "👯‍♂️",
     "imagePath": "men-with-bunny-ears.png"
   },
   {
@@ -4494,7 +4496,7 @@
       "partying",
       "women"
     ],
-    "emoji": "👯",
+    "emoji": "👯‍♀️",
     "imagePath": "women-with-bunny-ears.png"
   },
   {
@@ -4516,7 +4518,7 @@
       "sauna",
       "steam room"
     ],
-    "emoji": "🧖",
+    "emoji": "🧖‍♂️",
     "imagePath": "man-in-steamy-room.png"
   },
   {
@@ -4526,7 +4528,7 @@
       "sauna",
       "steam room"
     ],
-    "emoji": "🧖",
+    "emoji": "🧖‍♀️",
     "imagePath": "woman-in-steamy-room.png"
   },
   {
@@ -4544,7 +4546,7 @@
     "tags": [
       "climber"
     ],
-    "emoji": "🧗",
+    "emoji": "🧗‍♂️",
     "imagePath": "man-climbing.png"
   },
   {
@@ -4553,7 +4555,7 @@
     "tags": [
       "climber"
     ],
-    "emoji": "🧗",
+    "emoji": "🧗‍♀️",
     "imagePath": "woman-climbing.png"
   },
   {
@@ -4617,7 +4619,7 @@
       "golf",
       "man"
     ],
-    "emoji": "🏌",
+    "emoji": "🏌️‍♂️",
     "imagePath": "man-golfing.png"
   },
   {
@@ -4627,7 +4629,7 @@
       "golf",
       "woman"
     ],
-    "emoji": "🏌",
+    "emoji": "🏌️‍♀️",
     "imagePath": "woman-golfing.png"
   },
   {
@@ -4646,7 +4648,7 @@
       "man",
       "surfing"
     ],
-    "emoji": "🏄",
+    "emoji": "🏄‍♂️",
     "imagePath": "man-surfing.png"
   },
   {
@@ -4656,7 +4658,7 @@
       "surfing",
       "woman"
     ],
-    "emoji": "🏄",
+    "emoji": "🏄‍♀️",
     "imagePath": "woman-surfing.png"
   },
   {
@@ -4677,7 +4679,7 @@
       "man",
       "rowboat"
     ],
-    "emoji": "🚣",
+    "emoji": "🚣‍♂️",
     "imagePath": "man-rowing-boat.png"
   },
   {
@@ -4688,7 +4690,7 @@
       "rowboat",
       "woman"
     ],
-    "emoji": "🚣",
+    "emoji": "🚣‍♀️",
     "imagePath": "woman-rowing-boat.png"
   },
   {
@@ -4707,7 +4709,7 @@
       "man",
       "swim"
     ],
-    "emoji": "🏊",
+    "emoji": "🏊‍♂️",
     "imagePath": "man-swimming.png"
   },
   {
@@ -4717,7 +4719,7 @@
       "swim",
       "woman"
     ],
-    "emoji": "🏊",
+    "emoji": "🏊‍♀️",
     "imagePath": "woman-swimming.png"
   },
   {
@@ -4736,7 +4738,7 @@
       "ball",
       "man"
     ],
-    "emoji": "⛹",
+    "emoji": "⛹️‍♂️",
     "imagePath": "man-bouncing-ball.png"
   },
   {
@@ -4746,7 +4748,7 @@
       "ball",
       "woman"
     ],
-    "emoji": "⛹",
+    "emoji": "⛹️‍♀️",
     "imagePath": "woman-bouncing-ball.png"
   },
   {
@@ -4766,7 +4768,7 @@
       "man",
       "weight lifter"
     ],
-    "emoji": "🏋",
+    "emoji": "🏋️‍♂️",
     "imagePath": "man-lifting-weights.png"
   },
   {
@@ -4776,7 +4778,7 @@
       "weight lifter",
       "woman"
     ],
-    "emoji": "🏋",
+    "emoji": "🏋️‍♀️",
     "imagePath": "woman-lifting-weights.png"
   },
   {
@@ -4799,7 +4801,7 @@
       "cyclist",
       "man"
     ],
-    "emoji": "🚴",
+    "emoji": "🚴‍♂️",
     "imagePath": "man-biking.png"
   },
   {
@@ -4811,7 +4813,7 @@
       "cyclist",
       "woman"
     ],
-    "emoji": "🚴",
+    "emoji": "🚴‍♀️",
     "imagePath": "woman-biking.png"
   },
   {
@@ -4837,7 +4839,7 @@
       "man",
       "mountain"
     ],
-    "emoji": "🚵",
+    "emoji": "🚵‍♂️",
     "imagePath": "man-mountain-biking.png"
   },
   {
@@ -4851,7 +4853,7 @@
       "mountain",
       "woman"
     ],
-    "emoji": "🚵",
+    "emoji": "🚵‍♀️",
     "imagePath": "woman-mountain-biking.png"
   },
   {
@@ -4872,7 +4874,7 @@
       "gymnastics",
       "man"
     ],
-    "emoji": "🤸",
+    "emoji": "🤸‍♂️",
     "imagePath": "man-cartwheeling.png"
   },
   {
@@ -4883,7 +4885,7 @@
       "gymnastics",
       "woman"
     ],
-    "emoji": "🤸",
+    "emoji": "🤸‍♀️",
     "imagePath": "woman-cartwheeling.png"
   },
   {
@@ -4903,7 +4905,7 @@
       "men",
       "wrestle"
     ],
-    "emoji": "🤼",
+    "emoji": "🤼‍♂️",
     "imagePath": "men-wrestling.png"
   },
   {
@@ -4913,7 +4915,7 @@
       "women",
       "wrestle"
     ],
-    "emoji": "🤼",
+    "emoji": "🤼‍♀️",
     "imagePath": "women-wrestling.png"
   },
   {
@@ -4933,7 +4935,7 @@
       "man",
       "water polo"
     ],
-    "emoji": "🤽",
+    "emoji": "🤽‍♂️",
     "imagePath": "man-playing-water-polo.png"
   },
   {
@@ -4943,7 +4945,7 @@
       "water polo",
       "woman"
     ],
-    "emoji": "🤽",
+    "emoji": "🤽‍♀️",
     "imagePath": "woman-playing-water-polo.png"
   },
   {
@@ -4963,7 +4965,7 @@
       "handball",
       "man"
     ],
-    "emoji": "🤾",
+    "emoji": "🤾‍♂️",
     "imagePath": "man-playing-handball.png"
   },
   {
@@ -4973,7 +4975,7 @@
       "handball",
       "woman"
     ],
-    "emoji": "🤾",
+    "emoji": "🤾‍♀️",
     "imagePath": "woman-playing-handball.png"
   },
   {
@@ -4996,7 +4998,7 @@
       "man",
       "multitask"
     ],
-    "emoji": "🤹",
+    "emoji": "🤹‍♂️",
     "imagePath": "man-juggling.png"
   },
   {
@@ -5007,7 +5009,7 @@
       "multitask",
       "woman"
     ],
-    "emoji": "🤹",
+    "emoji": "🤹‍♀️",
     "imagePath": "woman-juggling.png"
   },
   {
@@ -5028,7 +5030,7 @@
       "meditation",
       "yoga"
     ],
-    "emoji": "🧘",
+    "emoji": "🧘‍♂️",
     "imagePath": "man-in-lotus-position.png"
   },
   {
@@ -5038,7 +5040,7 @@
       "meditation",
       "yoga"
     ],
-    "emoji": "🧘",
+    "emoji": "🧘‍♀️",
     "imagePath": "woman-in-lotus-position.png"
   },
   {
@@ -5071,7 +5073,7 @@
       "holding hands",
       "person"
     ],
-    "emoji": "🧑",
+    "emoji": "🧑‍🤝‍🧑",
     "imagePath": "people-holding-hands.png"
   },
   {
@@ -5133,7 +5135,7 @@
       "man",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍❤️‍💋‍👨",
     "imagePath": "kiss:-woman,-man.png"
   },
   {
@@ -5144,7 +5146,7 @@
       "kiss",
       "man"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍❤️‍💋‍👨",
     "imagePath": "kiss:-man,-man.png"
   },
   {
@@ -5155,7 +5157,7 @@
       "kiss",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍❤️‍💋‍👩",
     "imagePath": "kiss:-woman,-woman.png"
   },
   {
@@ -5178,7 +5180,7 @@
       "man",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍❤️‍👨",
     "imagePath": "couple-with-heart:-woman,-man.png"
   },
   {
@@ -5190,7 +5192,7 @@
       "love",
       "man"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍❤️‍👨",
     "imagePath": "couple-with-heart:-man,-man.png"
   },
   {
@@ -5202,7 +5204,7 @@
       "love",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍❤️‍👩",
     "imagePath": "couple-with-heart:-woman,-woman.png"
   },
   {
@@ -5221,7 +5223,7 @@
       "man",
       "woman"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍👩‍👦",
     "imagePath": "family:-man,-woman,-boy.png"
   },
   {
@@ -5233,7 +5235,7 @@
       "man",
       "woman"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍👩‍👧",
     "imagePath": "family:-man,-woman,-girl.png"
   },
   {
@@ -5246,7 +5248,7 @@
       "man",
       "woman"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍👩‍👧‍👦",
     "imagePath": "family:-man,-woman,-girl,-boy.png"
   },
   {
@@ -5258,7 +5260,7 @@
       "man",
       "woman"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍👩‍👦‍👦",
     "imagePath": "family:-man,-woman,-boy,-boy.png"
   },
   {
@@ -5270,7 +5272,7 @@
       "man",
       "woman"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍👩‍👧‍👧",
     "imagePath": "family:-man,-woman,-girl,-girl.png"
   },
   {
@@ -5281,7 +5283,7 @@
       "family",
       "man"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍👨‍👦",
     "imagePath": "family:-man,-man,-boy.png"
   },
   {
@@ -5292,7 +5294,7 @@
       "girl",
       "man"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍👨‍👧",
     "imagePath": "family:-man,-man,-girl.png"
   },
   {
@@ -5304,7 +5306,7 @@
       "girl",
       "man"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍👨‍👧‍👦",
     "imagePath": "family:-man,-man,-girl,-boy.png"
   },
   {
@@ -5315,7 +5317,7 @@
       "family",
       "man"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍👨‍👦‍👦",
     "imagePath": "family:-man,-man,-boy,-boy.png"
   },
   {
@@ -5326,7 +5328,7 @@
       "girl",
       "man"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍👨‍👧‍👧",
     "imagePath": "family:-man,-man,-girl,-girl.png"
   },
   {
@@ -5337,7 +5339,7 @@
       "family",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍👩‍👦",
     "imagePath": "family:-woman,-woman,-boy.png"
   },
   {
@@ -5348,7 +5350,7 @@
       "girl",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍👩‍👧",
     "imagePath": "family:-woman,-woman,-girl.png"
   },
   {
@@ -5360,7 +5362,7 @@
       "girl",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍👩‍👧‍👦",
     "imagePath": "family:-woman,-woman,-girl,-boy.png"
   },
   {
@@ -5371,7 +5373,7 @@
       "family",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍👩‍👦‍👦",
     "imagePath": "family:-woman,-woman,-boy,-boy.png"
   },
   {
@@ -5382,7 +5384,7 @@
       "girl",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍👩‍👧‍👧",
     "imagePath": "family:-woman,-woman,-girl,-girl.png"
   },
   {
@@ -5393,7 +5395,7 @@
       "family",
       "man"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍👦",
     "imagePath": "family:-man,-boy.png"
   },
   {
@@ -5404,7 +5406,7 @@
       "family",
       "man"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍👦‍👦",
     "imagePath": "family:-man,-boy,-boy.png"
   },
   {
@@ -5415,7 +5417,7 @@
       "girl",
       "man"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍👧",
     "imagePath": "family:-man,-girl.png"
   },
   {
@@ -5427,7 +5429,7 @@
       "girl",
       "man"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍👧‍👦",
     "imagePath": "family:-man,-girl,-boy.png"
   },
   {
@@ -5438,7 +5440,7 @@
       "girl",
       "man"
     ],
-    "emoji": "👨",
+    "emoji": "👨‍👧‍👧",
     "imagePath": "family:-man,-girl,-girl.png"
   },
   {
@@ -5449,7 +5451,7 @@
       "family",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍👦",
     "imagePath": "family:-woman,-boy.png"
   },
   {
@@ -5460,7 +5462,7 @@
       "family",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍👦‍👦",
     "imagePath": "family:-woman,-boy,-boy.png"
   },
   {
@@ -5471,7 +5473,7 @@
       "girl",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍👧",
     "imagePath": "family:-woman,-girl.png"
   },
   {
@@ -5483,7 +5485,7 @@
       "girl",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍👧‍👦",
     "imagePath": "family:-woman,-girl,-boy.png"
   },
   {
@@ -5494,7 +5496,7 @@
       "girl",
       "woman"
     ],
-    "emoji": "👩",
+    "emoji": "👩‍👧‍👧",
     "imagePath": "family:-woman,-girl,-girl.png"
   },
   {
@@ -5671,7 +5673,7 @@
       "dog",
       "service"
     ],
-    "emoji": "🐕",
+    "emoji": "🐕‍🦺",
     "imagePath": "service-dog.png"
   },
   {
@@ -5739,7 +5741,7 @@
       "cat",
       "unlucky"
     ],
-    "emoji": "🐈",
+    "emoji": "🐈‍⬛",
     "imagePath": "black-cat.png"
   },
   {
@@ -6129,7 +6131,7 @@
       "bear",
       "white"
     ],
-    "emoji": "🐻",
+    "emoji": "🐻‍❄️",
     "imagePath": "polar-bear.png"
   },
   {
@@ -6513,7 +6515,7 @@
     "name": "seal",
     "slug": "seal",
     "tags": [
-      "sea Lion"
+      "sea lion"
     ],
     "emoji": "🦭",
     "imagePath": "seal.png"
@@ -12273,7 +12275,6 @@
     "name": "accordion",
     "slug": "accordion",
     "tags": [
-      "accordian",
       "concertina",
       "squeeze box"
     ],
@@ -15750,7 +15751,7 @@
     "tags": [
       "keycap"
     ],
-    "emoji": "#",
+    "emoji": "#️⃣",
     "imagePath": "keycap:-#.png"
   },
   {
@@ -15759,7 +15760,7 @@
     "tags": [
       "keycap"
     ],
-    "emoji": "*",
+    "emoji": "*️⃣",
     "imagePath": "keycap:-*.png"
   },
   {
@@ -15768,7 +15769,7 @@
     "tags": [
       "keycap"
     ],
-    "emoji": "0",
+    "emoji": "0️⃣",
     "imagePath": "keycap:-0.png"
   },
   {
@@ -15777,7 +15778,7 @@
     "tags": [
       "keycap"
     ],
-    "emoji": "1",
+    "emoji": "1️⃣",
     "imagePath": "keycap:-1.png"
   },
   {
@@ -15786,7 +15787,7 @@
     "tags": [
       "keycap"
     ],
-    "emoji": "2",
+    "emoji": "2️⃣",
     "imagePath": "keycap:-2.png"
   },
   {
@@ -15795,7 +15796,7 @@
     "tags": [
       "keycap"
     ],
-    "emoji": "3",
+    "emoji": "3️⃣",
     "imagePath": "keycap:-3.png"
   },
   {
@@ -15804,7 +15805,7 @@
     "tags": [
       "keycap"
     ],
-    "emoji": "4",
+    "emoji": "4️⃣",
     "imagePath": "keycap:-4.png"
   },
   {
@@ -15813,7 +15814,7 @@
     "tags": [
       "keycap"
     ],
-    "emoji": "5",
+    "emoji": "5️⃣",
     "imagePath": "keycap:-5.png"
   },
   {
@@ -15822,7 +15823,7 @@
     "tags": [
       "keycap"
     ],
-    "emoji": "6",
+    "emoji": "6️⃣",
     "imagePath": "keycap:-6.png"
   },
   {
@@ -15831,7 +15832,7 @@
     "tags": [
       "keycap"
     ],
-    "emoji": "7",
+    "emoji": "7️⃣",
     "imagePath": "keycap:-7.png"
   },
   {
@@ -15840,7 +15841,7 @@
     "tags": [
       "keycap"
     ],
-    "emoji": "8",
+    "emoji": "8️⃣",
     "imagePath": "keycap:-8.png"
   },
   {
@@ -15849,7 +15850,7 @@
     "tags": [
       "keycap"
     ],
-    "emoji": "9",
+    "emoji": "9️⃣",
     "imagePath": "keycap:-9.png"
   },
   {
@@ -16697,7 +16698,7 @@
       "pride",
       "rainbow"
     ],
-    "emoji": "🏳",
+    "emoji": "🏳️‍🌈",
     "imagePath": "rainbow-flag.png"
   },
   {
@@ -16710,7 +16711,7 @@
       "transgender",
       "white"
     ],
-    "emoji": "🏳",
+    "emoji": "🏳️‍⚧️",
     "imagePath": "transgender-flag.png"
   },
   {
@@ -16722,7 +16723,7 @@
       "plunder",
       "treasure"
     ],
-    "emoji": "🏴",
+    "emoji": "🏴‍☠️",
     "imagePath": "pirate-flag.png"
   },
   {
@@ -16731,7 +16732,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇦",
+    "emoji": "🇦🇨",
     "imagePath": "flag:-Ascension-Island.png"
   },
   {
@@ -16740,7 +16741,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇦",
+    "emoji": "🇦🇩",
     "imagePath": "flag:-Andorra.png"
   },
   {
@@ -16749,7 +16750,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇦",
+    "emoji": "🇦🇪",
     "imagePath": "flag:-United-Arab-Emirates.png"
   },
   {
@@ -16758,7 +16759,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇦",
+    "emoji": "🇦🇫",
     "imagePath": "flag:-Afghanistan.png"
   },
   {
@@ -16767,7 +16768,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇦",
+    "emoji": "🇦🇬",
     "imagePath": "flag:-Antigua-&-Barbuda.png"
   },
   {
@@ -16776,7 +16777,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇦",
+    "emoji": "🇦🇮",
     "imagePath": "flag:-Anguilla.png"
   },
   {
@@ -16785,7 +16786,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇦",
+    "emoji": "🇦🇱",
     "imagePath": "flag:-Albania.png"
   },
   {
@@ -16794,7 +16795,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇦",
+    "emoji": "🇦🇲",
     "imagePath": "flag:-Armenia.png"
   },
   {
@@ -16803,7 +16804,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇦",
+    "emoji": "🇦🇴",
     "imagePath": "flag:-Angola.png"
   },
   {
@@ -16812,7 +16813,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇦",
+    "emoji": "🇦🇶",
     "imagePath": "flag:-Antarctica.png"
   },
   {
@@ -16821,7 +16822,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇦",
+    "emoji": "🇦🇷",
     "imagePath": "flag:-Argentina.png"
   },
   {
@@ -16830,7 +16831,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇦",
+    "emoji": "🇦🇸",
     "imagePath": "flag:-American-Samoa.png"
   },
   {
@@ -16839,7 +16840,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇦",
+    "emoji": "🇦🇹",
     "imagePath": "flag:-Austria.png"
   },
   {
@@ -16848,7 +16849,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇦",
+    "emoji": "🇦🇺",
     "imagePath": "flag:-Australia.png"
   },
   {
@@ -16857,7 +16858,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇦",
+    "emoji": "🇦🇼",
     "imagePath": "flag:-Aruba.png"
   },
   {
@@ -16866,7 +16867,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇦",
+    "emoji": "🇦🇽",
     "imagePath": "flag:-Åland-Islands.png"
   },
   {
@@ -16875,7 +16876,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇦",
+    "emoji": "🇦🇿",
     "imagePath": "flag:-Azerbaijan.png"
   },
   {
@@ -16884,7 +16885,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇦",
     "imagePath": "flag:-Bosnia-&-Herzegovina.png"
   },
   {
@@ -16893,7 +16894,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇧",
     "imagePath": "flag:-Barbados.png"
   },
   {
@@ -16902,7 +16903,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇩",
     "imagePath": "flag:-Bangladesh.png"
   },
   {
@@ -16911,7 +16912,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇪",
     "imagePath": "flag:-Belgium.png"
   },
   {
@@ -16920,7 +16921,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇫",
     "imagePath": "flag:-Burkina-Faso.png"
   },
   {
@@ -16929,7 +16930,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇬",
     "imagePath": "flag:-Bulgaria.png"
   },
   {
@@ -16938,7 +16939,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇭",
     "imagePath": "flag:-Bahrain.png"
   },
   {
@@ -16947,7 +16948,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇮",
     "imagePath": "flag:-Burundi.png"
   },
   {
@@ -16956,7 +16957,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇯",
     "imagePath": "flag:-Benin.png"
   },
   {
@@ -16965,7 +16966,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇱",
     "imagePath": "flag:-St.-Barthélemy.png"
   },
   {
@@ -16974,7 +16975,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇲",
     "imagePath": "flag:-Bermuda.png"
   },
   {
@@ -16983,7 +16984,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇳",
     "imagePath": "flag:-Brunei.png"
   },
   {
@@ -16992,7 +16993,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇴",
     "imagePath": "flag:-Bolivia.png"
   },
   {
@@ -17001,7 +17002,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇶",
     "imagePath": "flag:-Caribbean-Netherlands.png"
   },
   {
@@ -17010,7 +17011,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇷",
     "imagePath": "flag:-Brazil.png"
   },
   {
@@ -17019,7 +17020,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇸",
     "imagePath": "flag:-Bahamas.png"
   },
   {
@@ -17028,7 +17029,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇹",
     "imagePath": "flag:-Bhutan.png"
   },
   {
@@ -17037,7 +17038,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇻",
     "imagePath": "flag:-Bouvet-Island.png"
   },
   {
@@ -17046,7 +17047,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇼",
     "imagePath": "flag:-Botswana.png"
   },
   {
@@ -17055,7 +17056,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇾",
     "imagePath": "flag:-Belarus.png"
   },
   {
@@ -17064,7 +17065,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇧",
+    "emoji": "🇧🇿",
     "imagePath": "flag:-Belize.png"
   },
   {
@@ -17073,7 +17074,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇦",
     "imagePath": "flag:-Canada.png"
   },
   {
@@ -17082,7 +17083,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇨",
     "imagePath": "flag:-Cocos-(Keeling)-Islands.png"
   },
   {
@@ -17091,7 +17092,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇩",
     "imagePath": "flag:-Congo---Kinshasa.png"
   },
   {
@@ -17100,7 +17101,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇫",
     "imagePath": "flag:-Central-African-Republic.png"
   },
   {
@@ -17109,7 +17110,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇬",
     "imagePath": "flag:-Congo---Brazzaville.png"
   },
   {
@@ -17118,7 +17119,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇭",
     "imagePath": "flag:-Switzerland.png"
   },
   {
@@ -17127,7 +17128,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇮",
     "imagePath": "flag:-Côte-d’Ivoire.png"
   },
   {
@@ -17136,7 +17137,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇰",
     "imagePath": "flag:-Cook-Islands.png"
   },
   {
@@ -17145,7 +17146,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇱",
     "imagePath": "flag:-Chile.png"
   },
   {
@@ -17154,7 +17155,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇲",
     "imagePath": "flag:-Cameroon.png"
   },
   {
@@ -17163,7 +17164,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇳",
     "imagePath": "flag:-China.png"
   },
   {
@@ -17172,7 +17173,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇴",
     "imagePath": "flag:-Colombia.png"
   },
   {
@@ -17181,7 +17182,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇵",
     "imagePath": "flag:-Clipperton-Island.png"
   },
   {
@@ -17190,7 +17191,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇷",
     "imagePath": "flag:-Costa-Rica.png"
   },
   {
@@ -17199,7 +17200,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇺",
     "imagePath": "flag:-Cuba.png"
   },
   {
@@ -17208,7 +17209,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇻",
     "imagePath": "flag:-Cape-Verde.png"
   },
   {
@@ -17217,7 +17218,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇼",
     "imagePath": "flag:-Curaçao.png"
   },
   {
@@ -17226,7 +17227,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇽",
     "imagePath": "flag:-Christmas-Island.png"
   },
   {
@@ -17235,7 +17236,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇾",
     "imagePath": "flag:-Cyprus.png"
   },
   {
@@ -17244,7 +17245,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇨",
+    "emoji": "🇨🇿",
     "imagePath": "flag:-Czechia.png"
   },
   {
@@ -17253,7 +17254,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇩",
+    "emoji": "🇩🇪",
     "imagePath": "flag:-Germany.png"
   },
   {
@@ -17262,7 +17263,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇩",
+    "emoji": "🇩🇬",
     "imagePath": "flag:-Diego-Garcia.png"
   },
   {
@@ -17271,7 +17272,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇩",
+    "emoji": "🇩🇯",
     "imagePath": "flag:-Djibouti.png"
   },
   {
@@ -17280,7 +17281,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇩",
+    "emoji": "🇩🇰",
     "imagePath": "flag:-Denmark.png"
   },
   {
@@ -17289,7 +17290,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇩",
+    "emoji": "🇩🇲",
     "imagePath": "flag:-Dominica.png"
   },
   {
@@ -17298,7 +17299,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇩",
+    "emoji": "🇩🇴",
     "imagePath": "flag:-Dominican-Republic.png"
   },
   {
@@ -17307,7 +17308,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇩",
+    "emoji": "🇩🇿",
     "imagePath": "flag:-Algeria.png"
   },
   {
@@ -17316,7 +17317,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇪",
+    "emoji": "🇪🇦",
     "imagePath": "flag:-Ceuta-&-Melilla.png"
   },
   {
@@ -17325,7 +17326,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇪",
+    "emoji": "🇪🇨",
     "imagePath": "flag:-Ecuador.png"
   },
   {
@@ -17334,7 +17335,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇪",
+    "emoji": "🇪🇪",
     "imagePath": "flag:-Estonia.png"
   },
   {
@@ -17343,7 +17344,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇪",
+    "emoji": "🇪🇬",
     "imagePath": "flag:-Egypt.png"
   },
   {
@@ -17352,7 +17353,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇪",
+    "emoji": "🇪🇭",
     "imagePath": "flag:-Western-Sahara.png"
   },
   {
@@ -17361,7 +17362,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇪",
+    "emoji": "🇪🇷",
     "imagePath": "flag:-Eritrea.png"
   },
   {
@@ -17370,7 +17371,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇪",
+    "emoji": "🇪🇸",
     "imagePath": "flag:-Spain.png"
   },
   {
@@ -17379,7 +17380,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇪",
+    "emoji": "🇪🇹",
     "imagePath": "flag:-Ethiopia.png"
   },
   {
@@ -17388,7 +17389,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇪",
+    "emoji": "🇪🇺",
     "imagePath": "flag:-European-Union.png"
   },
   {
@@ -17397,7 +17398,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇫",
+    "emoji": "🇫🇮",
     "imagePath": "flag:-Finland.png"
   },
   {
@@ -17406,7 +17407,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇫",
+    "emoji": "🇫🇯",
     "imagePath": "flag:-Fiji.png"
   },
   {
@@ -17415,7 +17416,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇫",
+    "emoji": "🇫🇰",
     "imagePath": "flag:-Falkland-Islands.png"
   },
   {
@@ -17424,7 +17425,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇫",
+    "emoji": "🇫🇲",
     "imagePath": "flag:-Micronesia.png"
   },
   {
@@ -17433,7 +17434,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇫",
+    "emoji": "🇫🇴",
     "imagePath": "flag:-Faroe-Islands.png"
   },
   {
@@ -17442,7 +17443,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇫",
+    "emoji": "🇫🇷",
     "imagePath": "flag:-France.png"
   },
   {
@@ -17451,7 +17452,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇬",
+    "emoji": "🇬🇦",
     "imagePath": "flag:-Gabon.png"
   },
   {
@@ -17460,7 +17461,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇬",
+    "emoji": "🇬🇧",
     "imagePath": "flag:-United-Kingdom.png"
   },
   {
@@ -17469,7 +17470,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇬",
+    "emoji": "🇬🇩",
     "imagePath": "flag:-Grenada.png"
   },
   {
@@ -17478,7 +17479,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇬",
+    "emoji": "🇬🇪",
     "imagePath": "flag:-Georgia.png"
   },
   {
@@ -17487,7 +17488,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇬",
+    "emoji": "🇬🇫",
     "imagePath": "flag:-French-Guiana.png"
   },
   {
@@ -17496,7 +17497,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇬",
+    "emoji": "🇬🇬",
     "imagePath": "flag:-Guernsey.png"
   },
   {
@@ -17505,7 +17506,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇬",
+    "emoji": "🇬🇭",
     "imagePath": "flag:-Ghana.png"
   },
   {
@@ -17514,7 +17515,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇬",
+    "emoji": "🇬🇮",
     "imagePath": "flag:-Gibraltar.png"
   },
   {
@@ -17523,7 +17524,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇬",
+    "emoji": "🇬🇱",
     "imagePath": "flag:-Greenland.png"
   },
   {
@@ -17532,7 +17533,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇬",
+    "emoji": "🇬🇲",
     "imagePath": "flag:-Gambia.png"
   },
   {
@@ -17541,7 +17542,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇬",
+    "emoji": "🇬🇳",
     "imagePath": "flag:-Guinea.png"
   },
   {
@@ -17550,7 +17551,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇬",
+    "emoji": "🇬🇵",
     "imagePath": "flag:-Guadeloupe.png"
   },
   {
@@ -17559,7 +17560,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇬",
+    "emoji": "🇬🇶",
     "imagePath": "flag:-Equatorial-Guinea.png"
   },
   {
@@ -17568,7 +17569,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇬",
+    "emoji": "🇬🇷",
     "imagePath": "flag:-Greece.png"
   },
   {
@@ -17577,7 +17578,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇬",
+    "emoji": "🇬🇸",
     "imagePath": "flag:-South-Georgia-&-South-Sandwich-Islands.png"
   },
   {
@@ -17586,7 +17587,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇬",
+    "emoji": "🇬🇹",
     "imagePath": "flag:-Guatemala.png"
   },
   {
@@ -17595,7 +17596,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇬",
+    "emoji": "🇬🇺",
     "imagePath": "flag:-Guam.png"
   },
   {
@@ -17604,7 +17605,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇬",
+    "emoji": "🇬🇼",
     "imagePath": "flag:-Guinea-Bissau.png"
   },
   {
@@ -17613,7 +17614,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇬",
+    "emoji": "🇬🇾",
     "imagePath": "flag:-Guyana.png"
   },
   {
@@ -17622,7 +17623,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇭",
+    "emoji": "🇭🇰",
     "imagePath": "flag:-Hong-Kong-SAR-China.png"
   },
   {
@@ -17631,7 +17632,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇭",
+    "emoji": "🇭🇲",
     "imagePath": "flag:-Heard-&-McDonald-Islands.png"
   },
   {
@@ -17640,7 +17641,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇭",
+    "emoji": "🇭🇳",
     "imagePath": "flag:-Honduras.png"
   },
   {
@@ -17649,7 +17650,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇭",
+    "emoji": "🇭🇷",
     "imagePath": "flag:-Croatia.png"
   },
   {
@@ -17658,7 +17659,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇭",
+    "emoji": "🇭🇹",
     "imagePath": "flag:-Haiti.png"
   },
   {
@@ -17667,7 +17668,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇭",
+    "emoji": "🇭🇺",
     "imagePath": "flag:-Hungary.png"
   },
   {
@@ -17676,7 +17677,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇮",
+    "emoji": "🇮🇨",
     "imagePath": "flag:-Canary-Islands.png"
   },
   {
@@ -17685,7 +17686,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇮",
+    "emoji": "🇮🇩",
     "imagePath": "flag:-Indonesia.png"
   },
   {
@@ -17694,7 +17695,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇮",
+    "emoji": "🇮🇪",
     "imagePath": "flag:-Ireland.png"
   },
   {
@@ -17703,7 +17704,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇮",
+    "emoji": "🇮🇱",
     "imagePath": "flag:-Israel.png"
   },
   {
@@ -17712,7 +17713,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇮",
+    "emoji": "🇮🇲",
     "imagePath": "flag:-Isle-of-Man.png"
   },
   {
@@ -17721,7 +17722,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇮",
+    "emoji": "🇮🇳",
     "imagePath": "flag:-India.png"
   },
   {
@@ -17730,7 +17731,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇮",
+    "emoji": "🇮🇴",
     "imagePath": "flag:-British-Indian-Ocean-Territory.png"
   },
   {
@@ -17739,7 +17740,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇮",
+    "emoji": "🇮🇶",
     "imagePath": "flag:-Iraq.png"
   },
   {
@@ -17748,7 +17749,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇮",
+    "emoji": "🇮🇷",
     "imagePath": "flag:-Iran.png"
   },
   {
@@ -17757,7 +17758,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇮",
+    "emoji": "🇮🇸",
     "imagePath": "flag:-Iceland.png"
   },
   {
@@ -17766,7 +17767,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇮",
+    "emoji": "🇮🇹",
     "imagePath": "flag:-Italy.png"
   },
   {
@@ -17775,7 +17776,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇯",
+    "emoji": "🇯🇪",
     "imagePath": "flag:-Jersey.png"
   },
   {
@@ -17784,7 +17785,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇯",
+    "emoji": "🇯🇲",
     "imagePath": "flag:-Jamaica.png"
   },
   {
@@ -17793,7 +17794,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇯",
+    "emoji": "🇯🇴",
     "imagePath": "flag:-Jordan.png"
   },
   {
@@ -17802,7 +17803,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇯",
+    "emoji": "🇯🇵",
     "imagePath": "flag:-Japan.png"
   },
   {
@@ -17811,7 +17812,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇰",
+    "emoji": "🇰🇪",
     "imagePath": "flag:-Kenya.png"
   },
   {
@@ -17820,7 +17821,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇰",
+    "emoji": "🇰🇬",
     "imagePath": "flag:-Kyrgyzstan.png"
   },
   {
@@ -17829,7 +17830,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇰",
+    "emoji": "🇰🇭",
     "imagePath": "flag:-Cambodia.png"
   },
   {
@@ -17838,7 +17839,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇰",
+    "emoji": "🇰🇮",
     "imagePath": "flag:-Kiribati.png"
   },
   {
@@ -17847,7 +17848,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇰",
+    "emoji": "🇰🇲",
     "imagePath": "flag:-Comoros.png"
   },
   {
@@ -17856,7 +17857,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇰",
+    "emoji": "🇰🇳",
     "imagePath": "flag:-St.-Kitts-&-Nevis.png"
   },
   {
@@ -17865,7 +17866,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇰",
+    "emoji": "🇰🇵",
     "imagePath": "flag:-North-Korea.png"
   },
   {
@@ -17874,7 +17875,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇰",
+    "emoji": "🇰🇷",
     "imagePath": "flag:-South-Korea.png"
   },
   {
@@ -17883,7 +17884,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇰",
+    "emoji": "🇰🇼",
     "imagePath": "flag:-Kuwait.png"
   },
   {
@@ -17892,7 +17893,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇰",
+    "emoji": "🇰🇾",
     "imagePath": "flag:-Cayman-Islands.png"
   },
   {
@@ -17901,7 +17902,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇰",
+    "emoji": "🇰🇿",
     "imagePath": "flag:-Kazakhstan.png"
   },
   {
@@ -17910,7 +17911,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇱",
+    "emoji": "🇱🇦",
     "imagePath": "flag:-Laos.png"
   },
   {
@@ -17919,7 +17920,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇱",
+    "emoji": "🇱🇧",
     "imagePath": "flag:-Lebanon.png"
   },
   {
@@ -17928,7 +17929,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇱",
+    "emoji": "🇱🇨",
     "imagePath": "flag:-St.-Lucia.png"
   },
   {
@@ -17937,7 +17938,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇱",
+    "emoji": "🇱🇮",
     "imagePath": "flag:-Liechtenstein.png"
   },
   {
@@ -17946,7 +17947,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇱",
+    "emoji": "🇱🇰",
     "imagePath": "flag:-Sri-Lanka.png"
   },
   {
@@ -17955,7 +17956,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇱",
+    "emoji": "🇱🇷",
     "imagePath": "flag:-Liberia.png"
   },
   {
@@ -17964,7 +17965,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇱",
+    "emoji": "🇱🇸",
     "imagePath": "flag:-Lesotho.png"
   },
   {
@@ -17973,7 +17974,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇱",
+    "emoji": "🇱🇹",
     "imagePath": "flag:-Lithuania.png"
   },
   {
@@ -17982,7 +17983,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇱",
+    "emoji": "🇱🇺",
     "imagePath": "flag:-Luxembourg.png"
   },
   {
@@ -17991,7 +17992,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇱",
+    "emoji": "🇱🇻",
     "imagePath": "flag:-Latvia.png"
   },
   {
@@ -18000,7 +18001,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇱",
+    "emoji": "🇱🇾",
     "imagePath": "flag:-Libya.png"
   },
   {
@@ -18009,7 +18010,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇦",
     "imagePath": "flag:-Morocco.png"
   },
   {
@@ -18018,7 +18019,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇨",
     "imagePath": "flag:-Monaco.png"
   },
   {
@@ -18027,7 +18028,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇩",
     "imagePath": "flag:-Moldova.png"
   },
   {
@@ -18036,7 +18037,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇪",
     "imagePath": "flag:-Montenegro.png"
   },
   {
@@ -18045,7 +18046,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇫",
     "imagePath": "flag:-St.-Martin.png"
   },
   {
@@ -18054,7 +18055,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇬",
     "imagePath": "flag:-Madagascar.png"
   },
   {
@@ -18063,7 +18064,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇭",
     "imagePath": "flag:-Marshall-Islands.png"
   },
   {
@@ -18072,7 +18073,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇰",
     "imagePath": "flag:-North-Macedonia.png"
   },
   {
@@ -18081,7 +18082,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇱",
     "imagePath": "flag:-Mali.png"
   },
   {
@@ -18090,7 +18091,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇲",
     "imagePath": "flag:-Myanmar-(Burma).png"
   },
   {
@@ -18099,7 +18100,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇳",
     "imagePath": "flag:-Mongolia.png"
   },
   {
@@ -18108,7 +18109,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇴",
     "imagePath": "flag:-Macao-SAR-China.png"
   },
   {
@@ -18117,7 +18118,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇵",
     "imagePath": "flag:-Northern-Mariana-Islands.png"
   },
   {
@@ -18126,7 +18127,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇶",
     "imagePath": "flag:-Martinique.png"
   },
   {
@@ -18135,7 +18136,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇷",
     "imagePath": "flag:-Mauritania.png"
   },
   {
@@ -18144,7 +18145,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇸",
     "imagePath": "flag:-Montserrat.png"
   },
   {
@@ -18153,7 +18154,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇹",
     "imagePath": "flag:-Malta.png"
   },
   {
@@ -18162,7 +18163,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇺",
     "imagePath": "flag:-Mauritius.png"
   },
   {
@@ -18171,7 +18172,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇻",
     "imagePath": "flag:-Maldives.png"
   },
   {
@@ -18180,7 +18181,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇼",
     "imagePath": "flag:-Malawi.png"
   },
   {
@@ -18189,7 +18190,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇽",
     "imagePath": "flag:-Mexico.png"
   },
   {
@@ -18198,7 +18199,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇾",
     "imagePath": "flag:-Malaysia.png"
   },
   {
@@ -18207,7 +18208,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇲",
+    "emoji": "🇲🇿",
     "imagePath": "flag:-Mozambique.png"
   },
   {
@@ -18216,7 +18217,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇳",
+    "emoji": "🇳🇦",
     "imagePath": "flag:-Namibia.png"
   },
   {
@@ -18225,7 +18226,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇳",
+    "emoji": "🇳🇨",
     "imagePath": "flag:-New-Caledonia.png"
   },
   {
@@ -18234,7 +18235,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇳",
+    "emoji": "🇳🇪",
     "imagePath": "flag:-Niger.png"
   },
   {
@@ -18243,7 +18244,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇳",
+    "emoji": "🇳🇫",
     "imagePath": "flag:-Norfolk-Island.png"
   },
   {
@@ -18252,7 +18253,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇳",
+    "emoji": "🇳🇬",
     "imagePath": "flag:-Nigeria.png"
   },
   {
@@ -18261,7 +18262,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇳",
+    "emoji": "🇳🇮",
     "imagePath": "flag:-Nicaragua.png"
   },
   {
@@ -18270,7 +18271,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇳",
+    "emoji": "🇳🇱",
     "imagePath": "flag:-Netherlands.png"
   },
   {
@@ -18279,7 +18280,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇳",
+    "emoji": "🇳🇴",
     "imagePath": "flag:-Norway.png"
   },
   {
@@ -18288,7 +18289,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇳",
+    "emoji": "🇳🇵",
     "imagePath": "flag:-Nepal.png"
   },
   {
@@ -18297,7 +18298,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇳",
+    "emoji": "🇳🇷",
     "imagePath": "flag:-Nauru.png"
   },
   {
@@ -18306,7 +18307,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇳",
+    "emoji": "🇳🇺",
     "imagePath": "flag:-Niue.png"
   },
   {
@@ -18315,7 +18316,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇳",
+    "emoji": "🇳🇿",
     "imagePath": "flag:-New-Zealand.png"
   },
   {
@@ -18324,7 +18325,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇴",
+    "emoji": "🇴🇲",
     "imagePath": "flag:-Oman.png"
   },
   {
@@ -18333,7 +18334,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇵",
+    "emoji": "🇵🇦",
     "imagePath": "flag:-Panama.png"
   },
   {
@@ -18342,7 +18343,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇵",
+    "emoji": "🇵🇪",
     "imagePath": "flag:-Peru.png"
   },
   {
@@ -18351,7 +18352,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇵",
+    "emoji": "🇵🇫",
     "imagePath": "flag:-French-Polynesia.png"
   },
   {
@@ -18360,7 +18361,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇵",
+    "emoji": "🇵🇬",
     "imagePath": "flag:-Papua-New-Guinea.png"
   },
   {
@@ -18369,7 +18370,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇵",
+    "emoji": "🇵🇭",
     "imagePath": "flag:-Philippines.png"
   },
   {
@@ -18378,7 +18379,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇵",
+    "emoji": "🇵🇰",
     "imagePath": "flag:-Pakistan.png"
   },
   {
@@ -18387,7 +18388,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇵",
+    "emoji": "🇵🇱",
     "imagePath": "flag:-Poland.png"
   },
   {
@@ -18396,7 +18397,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇵",
+    "emoji": "🇵🇲",
     "imagePath": "flag:-St.-Pierre-&-Miquelon.png"
   },
   {
@@ -18405,7 +18406,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇵",
+    "emoji": "🇵🇳",
     "imagePath": "flag:-Pitcairn-Islands.png"
   },
   {
@@ -18414,7 +18415,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇵",
+    "emoji": "🇵🇷",
     "imagePath": "flag:-Puerto-Rico.png"
   },
   {
@@ -18423,7 +18424,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇵",
+    "emoji": "🇵🇸",
     "imagePath": "flag:-Palestinian-Territories.png"
   },
   {
@@ -18432,7 +18433,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇵",
+    "emoji": "🇵🇹",
     "imagePath": "flag:-Portugal.png"
   },
   {
@@ -18441,7 +18442,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇵",
+    "emoji": "🇵🇼",
     "imagePath": "flag:-Palau.png"
   },
   {
@@ -18450,7 +18451,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇵",
+    "emoji": "🇵🇾",
     "imagePath": "flag:-Paraguay.png"
   },
   {
@@ -18459,7 +18460,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇶",
+    "emoji": "🇶🇦",
     "imagePath": "flag:-Qatar.png"
   },
   {
@@ -18468,7 +18469,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇷",
+    "emoji": "🇷🇪",
     "imagePath": "flag:-Réunion.png"
   },
   {
@@ -18477,7 +18478,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇷",
+    "emoji": "🇷🇴",
     "imagePath": "flag:-Romania.png"
   },
   {
@@ -18486,7 +18487,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇷",
+    "emoji": "🇷🇸",
     "imagePath": "flag:-Serbia.png"
   },
   {
@@ -18495,7 +18496,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇷",
+    "emoji": "🇷🇺",
     "imagePath": "flag:-Russia.png"
   },
   {
@@ -18504,7 +18505,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇷",
+    "emoji": "🇷🇼",
     "imagePath": "flag:-Rwanda.png"
   },
   {
@@ -18513,7 +18514,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇦",
     "imagePath": "flag:-Saudi-Arabia.png"
   },
   {
@@ -18522,7 +18523,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇧",
     "imagePath": "flag:-Solomon-Islands.png"
   },
   {
@@ -18531,7 +18532,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇨",
     "imagePath": "flag:-Seychelles.png"
   },
   {
@@ -18540,7 +18541,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇩",
     "imagePath": "flag:-Sudan.png"
   },
   {
@@ -18549,7 +18550,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇪",
     "imagePath": "flag:-Sweden.png"
   },
   {
@@ -18558,7 +18559,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇬",
     "imagePath": "flag:-Singapore.png"
   },
   {
@@ -18567,7 +18568,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇭",
     "imagePath": "flag:-St.-Helena.png"
   },
   {
@@ -18576,7 +18577,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇮",
     "imagePath": "flag:-Slovenia.png"
   },
   {
@@ -18585,7 +18586,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇯",
     "imagePath": "flag:-Svalbard-&-Jan-Mayen.png"
   },
   {
@@ -18594,7 +18595,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇰",
     "imagePath": "flag:-Slovakia.png"
   },
   {
@@ -18603,7 +18604,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇱",
     "imagePath": "flag:-Sierra-Leone.png"
   },
   {
@@ -18612,7 +18613,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇲",
     "imagePath": "flag:-San-Marino.png"
   },
   {
@@ -18621,7 +18622,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇳",
     "imagePath": "flag:-Senegal.png"
   },
   {
@@ -18630,7 +18631,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇴",
     "imagePath": "flag:-Somalia.png"
   },
   {
@@ -18639,7 +18640,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇷",
     "imagePath": "flag:-Suriname.png"
   },
   {
@@ -18648,7 +18649,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇸",
     "imagePath": "flag:-South-Sudan.png"
   },
   {
@@ -18657,7 +18658,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇹",
     "imagePath": "flag:-São-Tomé-&-Príncipe.png"
   },
   {
@@ -18666,7 +18667,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇻",
     "imagePath": "flag:-El-Salvador.png"
   },
   {
@@ -18675,7 +18676,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇽",
     "imagePath": "flag:-Sint-Maarten.png"
   },
   {
@@ -18684,7 +18685,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇾",
     "imagePath": "flag:-Syria.png"
   },
   {
@@ -18693,7 +18694,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇸",
+    "emoji": "🇸🇿",
     "imagePath": "flag:-Eswatini.png"
   },
   {
@@ -18702,7 +18703,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇹",
+    "emoji": "🇹🇦",
     "imagePath": "flag:-Tristan-da-Cunha.png"
   },
   {
@@ -18711,7 +18712,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇹",
+    "emoji": "🇹🇨",
     "imagePath": "flag:-Turks-&-Caicos-Islands.png"
   },
   {
@@ -18720,7 +18721,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇹",
+    "emoji": "🇹🇩",
     "imagePath": "flag:-Chad.png"
   },
   {
@@ -18729,7 +18730,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇹",
+    "emoji": "🇹🇫",
     "imagePath": "flag:-French-Southern-Territories.png"
   },
   {
@@ -18738,7 +18739,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇹",
+    "emoji": "🇹🇬",
     "imagePath": "flag:-Togo.png"
   },
   {
@@ -18747,7 +18748,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇹",
+    "emoji": "🇹🇭",
     "imagePath": "flag:-Thailand.png"
   },
   {
@@ -18756,7 +18757,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇹",
+    "emoji": "🇹🇯",
     "imagePath": "flag:-Tajikistan.png"
   },
   {
@@ -18765,7 +18766,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇹",
+    "emoji": "🇹🇰",
     "imagePath": "flag:-Tokelau.png"
   },
   {
@@ -18774,7 +18775,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇹",
+    "emoji": "🇹🇱",
     "imagePath": "flag:-Timor-Leste.png"
   },
   {
@@ -18783,7 +18784,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇹",
+    "emoji": "🇹🇲",
     "imagePath": "flag:-Turkmenistan.png"
   },
   {
@@ -18792,7 +18793,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇹",
+    "emoji": "🇹🇳",
     "imagePath": "flag:-Tunisia.png"
   },
   {
@@ -18801,7 +18802,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇹",
+    "emoji": "🇹🇴",
     "imagePath": "flag:-Tonga.png"
   },
   {
@@ -18810,7 +18811,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇹",
+    "emoji": "🇹🇷",
     "imagePath": "flag:-Turkey.png"
   },
   {
@@ -18819,7 +18820,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇹",
+    "emoji": "🇹🇹",
     "imagePath": "flag:-Trinidad-&-Tobago.png"
   },
   {
@@ -18828,7 +18829,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇹",
+    "emoji": "🇹🇻",
     "imagePath": "flag:-Tuvalu.png"
   },
   {
@@ -18837,7 +18838,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇹",
+    "emoji": "🇹🇼",
     "imagePath": "flag:-Taiwan.png"
   },
   {
@@ -18846,7 +18847,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇹",
+    "emoji": "🇹🇿",
     "imagePath": "flag:-Tanzania.png"
   },
   {
@@ -18855,7 +18856,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇺",
+    "emoji": "🇺🇦",
     "imagePath": "flag:-Ukraine.png"
   },
   {
@@ -18864,7 +18865,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇺",
+    "emoji": "🇺🇬",
     "imagePath": "flag:-Uganda.png"
   },
   {
@@ -18873,7 +18874,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇺",
+    "emoji": "🇺🇲",
     "imagePath": "flag:-U.S.-Outlying-Islands.png"
   },
   {
@@ -18882,7 +18883,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇺",
+    "emoji": "🇺🇳",
     "imagePath": "flag:-United-Nations.png"
   },
   {
@@ -18891,7 +18892,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇺",
+    "emoji": "🇺🇸",
     "imagePath": "flag:-United-States.png"
   },
   {
@@ -18900,7 +18901,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇺",
+    "emoji": "🇺🇾",
     "imagePath": "flag:-Uruguay.png"
   },
   {
@@ -18909,7 +18910,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇺",
+    "emoji": "🇺🇿",
     "imagePath": "flag:-Uzbekistan.png"
   },
   {
@@ -18918,7 +18919,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇻",
+    "emoji": "🇻🇦",
     "imagePath": "flag:-Vatican-City.png"
   },
   {
@@ -18927,7 +18928,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇻",
+    "emoji": "🇻🇨",
     "imagePath": "flag:-St.-Vincent-&-Grenadines.png"
   },
   {
@@ -18936,7 +18937,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇻",
+    "emoji": "🇻🇪",
     "imagePath": "flag:-Venezuela.png"
   },
   {
@@ -18945,7 +18946,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇻",
+    "emoji": "🇻🇬",
     "imagePath": "flag:-British-Virgin-Islands.png"
   },
   {
@@ -18954,7 +18955,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇻",
+    "emoji": "🇻🇮",
     "imagePath": "flag:-U.S.-Virgin-Islands.png"
   },
   {
@@ -18963,7 +18964,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇻",
+    "emoji": "🇻🇳",
     "imagePath": "flag:-Vietnam.png"
   },
   {
@@ -18972,7 +18973,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇻",
+    "emoji": "🇻🇺",
     "imagePath": "flag:-Vanuatu.png"
   },
   {
@@ -18981,7 +18982,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇼",
+    "emoji": "🇼🇫",
     "imagePath": "flag:-Wallis-&-Futuna.png"
   },
   {
@@ -18990,7 +18991,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇼",
+    "emoji": "🇼🇸",
     "imagePath": "flag:-Samoa.png"
   },
   {
@@ -18999,7 +19000,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇽",
+    "emoji": "🇽🇰",
     "imagePath": "flag:-Kosovo.png"
   },
   {
@@ -19008,7 +19009,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇾",
+    "emoji": "🇾🇪",
     "imagePath": "flag:-Yemen.png"
   },
   {
@@ -19017,7 +19018,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇾",
+    "emoji": "🇾🇹",
     "imagePath": "flag:-Mayotte.png"
   },
   {
@@ -19026,7 +19027,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇿",
+    "emoji": "🇿🇦",
     "imagePath": "flag:-South-Africa.png"
   },
   {
@@ -19035,7 +19036,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇿",
+    "emoji": "🇿🇲",
     "imagePath": "flag:-Zambia.png"
   },
   {
@@ -19044,7 +19045,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🇿",
+    "emoji": "🇿🇼",
     "imagePath": "flag:-Zimbabwe.png"
   },
   {
@@ -19053,7 +19054,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🏴",
+    "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "imagePath": "flag:-England.png"
   },
   {
@@ -19062,7 +19063,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🏴",
+    "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
     "imagePath": "flag:-Scotland.png"
   },
   {
@@ -19071,7 +19072,7 @@
     "tags": [
       "flag"
     ],
-    "emoji": "🏴",
+    "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
     "imagePath": "flag:-Wales.png"
   }
 ]
