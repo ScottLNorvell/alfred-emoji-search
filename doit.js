@@ -5,9 +5,7 @@ const cheerio = require('cheerio');
 const CHART = 'https://unicode.org/emoji/charts/emoji-list.html';
 const BETA = '⊛';
 
-const toEmoji = str => String.fromCodePoint(parseInt(str, 16));
-
-const getEmoji = $elem => toEmoji($elem.find('.code a').attr('name'));
+const getEmoji = $elem => $elem.find('img').attr('alt');
 
 const getImageInfo = ($elem, { slug }) => {
   const src = $elem.find('.andr img').attr('src');
