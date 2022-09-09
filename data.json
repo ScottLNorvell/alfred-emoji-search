@@ -333,15 +333,17 @@
     "imagePath": "money-mouth-face.png"
   },
   {
-    "name": "hugging face",
-    "slug": "hugging-face",
+    "name": "smiling face with open hands",
+    "slug": "smiling-face-with-open-hands",
     "tags": [
       "face",
       "hug",
-      "hugging"
+      "hugging",
+      "open hands",
+      "smiling face"
     ],
     "emoji": "🤗",
-    "imagePath": "hugging-face.png"
+    "imagePath": "smiling-face-with-open-hands.png"
   },
   {
     "name": "face with hand over mouth",
@@ -438,6 +440,17 @@
     "imagePath": "face-without-mouth.png"
   },
   {
+    "name": "face in clouds",
+    "slug": "face-in-clouds",
+    "tags": [
+      "absentminded",
+      "face in the fog",
+      "head in clouds"
+    ],
+    "emoji": "😶‍🌫️",
+    "imagePath": "face-in-clouds.png"
+  },
+  {
     "name": "smirking face",
     "slug": "smirking-face",
     "tags": [
@@ -479,6 +492,20 @@
     ],
     "emoji": "😬",
     "imagePath": "grimacing-face.png"
+  },
+  {
+    "name": "face exhaling",
+    "slug": "face-exhaling",
+    "tags": [
+      "exhale",
+      "gasp",
+      "groan",
+      "relief",
+      "whisper",
+      "whistle"
+    ],
+    "emoji": "😮‍💨",
+    "imagePath": "face-exhaling.png"
   },
   {
     "name": "lying face",
@@ -653,15 +680,29 @@
     "imagePath": "woozy-face.png"
   },
   {
-    "name": "knocked-out face",
-    "slug": "knocked-out-face",
+    "name": "face with crossed-out eyes",
+    "slug": "face-with-crossed-out-eyes",
     "tags": [
+      "crossed-out eyes",
       "dead",
       "face",
       "knocked out"
     ],
     "emoji": "😵",
-    "imagePath": "knocked-out-face.png"
+    "imagePath": "face-with-crossed-out-eyes.png"
+  },
+  {
+    "name": "face with spiral eyes",
+    "slug": "face-with-spiral-eyes",
+    "tags": [
+      "dizzy",
+      "hypnotized",
+      "spiral",
+      "trouble",
+      "whoa"
+    ],
+    "emoji": "😵‍💫",
+    "imagePath": "face-with-spiral-eyes.png"
   },
   {
     "name": "exploding head",
@@ -1487,6 +1528,33 @@
     ],
     "emoji": "💔",
     "imagePath": "broken-heart.png"
+  },
+  {
+    "name": "heart on fire",
+    "slug": "heart-on-fire",
+    "tags": [
+      "burn",
+      "heart",
+      "love",
+      "lust",
+      "sacred heart"
+    ],
+    "emoji": "❤️‍🔥",
+    "imagePath": "heart-on-fire.png"
+  },
+  {
+    "name": "mending heart",
+    "slug": "mending-heart",
+    "tags": [
+      "healthier",
+      "improving",
+      "mending",
+      "recovering",
+      "recuperating",
+      "well"
+    ],
+    "emoji": "❤️‍🩹",
+    "imagePath": "mending-heart.png"
   },
   {
     "name": "red heart",
@@ -2361,6 +2429,26 @@
     ],
     "emoji": "🧔",
     "imagePath": "person:-beard.png"
+  },
+  {
+    "name": "man: beard",
+    "slug": "man:-beard",
+    "tags": [
+      "beard",
+      "man"
+    ],
+    "emoji": "🧔‍♂️",
+    "imagePath": "man:-beard.png"
+  },
+  {
+    "name": "woman: beard",
+    "slug": "woman:-beard",
+    "tags": [
+      "beard",
+      "woman"
+    ],
+    "emoji": "🧔‍♀️",
+    "imagePath": "woman:-beard.png"
   },
   {
     "name": "man: red hair",
@@ -6138,7 +6226,8 @@
     "name": "koala",
     "slug": "koala",
     "tags": [
-      "bear"
+      "face",
+      "marsupial"
     ],
     "emoji": "🐨",
     "imagePath": "koala.png"
@@ -9430,7 +9519,6 @@
     "slug": "bus-stop",
     "tags": [
       "bus",
-      "busstop",
       "stop"
     ],
     "emoji": "🚏",
