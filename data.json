@@ -119,6 +119,18 @@
     "imagePath": "upside-down-face.png"
   },
   {
+    "name": "melting face",
+    "slug": "melting-face",
+    "tags": [
+      "disappear",
+      "dissolve",
+      "liquid",
+      "melt"
+    ],
+    "emoji": "🫠",
+    "imagePath": "melting-face.png"
+  },
+  {
     "name": "winking face",
     "slug": "winking-face",
     "tags": [
@@ -358,6 +370,31 @@
     "imagePath": "face-with-hand-over-mouth.png"
   },
   {
+    "name": "face with open eyes and hand over mouth",
+    "slug": "face-with-open-eyes-and-hand-over-mouth",
+    "tags": [
+      "amazement",
+      "awe",
+      "disbelief",
+      "embarrass",
+      "scared",
+      "surprise"
+    ],
+    "emoji": "🫢",
+    "imagePath": "face-with-open-eyes-and-hand-over-mouth.png"
+  },
+  {
+    "name": "face with peeking eye",
+    "slug": "face-with-peeking-eye",
+    "tags": [
+      "captivated",
+      "peep",
+      "stare"
+    ],
+    "emoji": "🫣",
+    "imagePath": "face-with-peeking-eye.png"
+  },
+  {
     "name": "shushing face",
     "slug": "shushing-face",
     "tags": [
@@ -376,6 +413,19 @@
     ],
     "emoji": "🤔",
     "imagePath": "thinking-face.png"
+  },
+  {
+    "name": "saluting face",
+    "slug": "saluting-face",
+    "tags": [
+      "OK",
+      "salute",
+      "sunny",
+      "troops",
+      "yes"
+    ],
+    "emoji": "🫡",
+    "imagePath": "saluting-face.png"
   },
   {
     "name": "zipper-mouth face",
@@ -438,6 +488,19 @@
     ],
     "emoji": "😶",
     "imagePath": "face-without-mouth.png"
+  },
+  {
+    "name": "dotted line face",
+    "slug": "dotted-line-face",
+    "tags": [
+      "depressed",
+      "disappear",
+      "hide",
+      "introvert",
+      "invisible"
+    ],
+    "emoji": "🫥",
+    "imagePath": "dotted-line-face.png"
   },
   {
     "name": "face in clouds",
@@ -544,6 +607,7 @@
     "slug": "sleepy-face",
     "tags": [
       "face",
+      "good night",
       "sleep"
     ],
     "emoji": "😪",
@@ -564,8 +628,9 @@
     "slug": "sleeping-face",
     "tags": [
       "face",
+      "good night",
       "sleep",
-      "zzz"
+      "ZZZ"
     ],
     "emoji": "😴",
     "imagePath": "sleeping-face.png"
@@ -779,6 +844,8 @@
     "name": "face with monocle",
     "slug": "face-with-monocle",
     "tags": [
+      "face",
+      "monocle",
       "stuffy",
       "wealthy"
     ],
@@ -795,6 +862,18 @@
     ],
     "emoji": "😕",
     "imagePath": "confused-face.png"
+  },
+  {
+    "name": "face with diagonal mouth",
+    "slug": "face-with-diagonal-mouth",
+    "tags": [
+      "disappointed",
+      "meh",
+      "skeptical",
+      "unsure"
+    ],
+    "emoji": "🫤",
+    "imagePath": "face-with-diagonal-mouth.png"
   },
   {
     "name": "worried face",
@@ -883,6 +962,19 @@
     ],
     "emoji": "🥺",
     "imagePath": "pleading-face.png"
+  },
+  {
+    "name": "face holding back tears",
+    "slug": "face-holding-back-tears",
+    "tags": [
+      "angry",
+      "cry",
+      "proud",
+      "resist",
+      "sad"
+    ],
+    "emoji": "🥹",
+    "imagePath": "face-holding-back-tears.png"
   },
   {
     "name": "frowning face with open mouth",
@@ -1066,10 +1158,11 @@
     "imagePath": "face-with-steam-from-nose.png"
   },
   {
-    "name": "pouting face",
-    "slug": "pouting-face",
+    "name": "enraged face",
+    "slug": "enraged-face",
     "tags": [
       "angry",
+      "enraged",
       "face",
       "mad",
       "pouting",
@@ -1077,7 +1170,7 @@
       "red"
     ],
     "emoji": "😡",
-    "imagePath": "pouting-face.png"
+    "imagePath": "enraged-face.png"
   },
   {
     "name": "angry face",
@@ -1407,16 +1500,6 @@
     "imagePath": "speak-no-evil-monkey.png"
   },
   {
-    "name": "kiss mark",
-    "slug": "kiss-mark",
-    "tags": [
-      "kiss",
-      "lips"
-    ],
-    "emoji": "💋",
-    "imagePath": "kiss-mark.png"
-  },
-  {
     "name": "love letter",
     "slug": "love-letter",
     "tags": [
@@ -1642,6 +1725,16 @@
     "imagePath": "white-heart.png"
   },
   {
+    "name": "kiss mark",
+    "slug": "kiss-mark",
+    "tags": [
+      "kiss",
+      "lips"
+    ],
+    "emoji": "💋",
+    "imagePath": "kiss-mark.png"
+  },
+  {
     "name": "hundred points",
     "slug": "hundred-points",
     "tags": [
@@ -1714,15 +1807,6 @@
     "imagePath": "hole.png"
   },
   {
-    "name": "bomb",
-    "slug": "bomb",
-    "tags": [
-      "comic"
-    ],
-    "emoji": "💣",
-    "imagePath": "bomb.png"
-  },
-  {
     "name": "speech balloon",
     "slug": "speech-balloon",
     "tags": [
@@ -1739,8 +1823,10 @@
     "name": "eye in speech bubble",
     "slug": "eye-in-speech-bubble",
     "tags": [
+      "balloon",
+      "bubble",
       "eye",
-      "speech bubble",
+      "speech",
       "witness"
     ],
     "emoji": "👁️‍🗨️",
@@ -1750,6 +1836,8 @@
     "name": "left speech bubble",
     "slug": "left-speech-bubble",
     "tags": [
+      "balloon",
+      "bubble",
       "dialog",
       "speech"
     ],
@@ -1781,14 +1869,15 @@
     "imagePath": "thought-balloon.png"
   },
   {
-    "name": "zzz",
-    "slug": "zzz",
+    "name": "ZZZ",
+    "slug": "ZZZ",
     "tags": [
       "comic",
+      "good night",
       "sleep"
     ],
     "emoji": "💤",
-    "imagePath": "zzz.png"
+    "imagePath": "ZZZ.png"
   },
   {
     "name": "waving hand",
@@ -1846,6 +1935,51 @@
     "imagePath": "vulcan-salute.png"
   },
   {
+    "name": "rightwards hand",
+    "slug": "rightwards-hand",
+    "tags": [
+      "hand",
+      "right",
+      "rightward"
+    ],
+    "emoji": "🫱",
+    "imagePath": "rightwards-hand.png"
+  },
+  {
+    "name": "leftwards hand",
+    "slug": "leftwards-hand",
+    "tags": [
+      "hand",
+      "left",
+      "leftward"
+    ],
+    "emoji": "🫲",
+    "imagePath": "leftwards-hand.png"
+  },
+  {
+    "name": "palm down hand",
+    "slug": "palm-down-hand",
+    "tags": [
+      "dismiss",
+      "drop",
+      "shoo"
+    ],
+    "emoji": "🫳",
+    "imagePath": "palm-down-hand.png"
+  },
+  {
+    "name": "palm up hand",
+    "slug": "palm-up-hand",
+    "tags": [
+      "beckon",
+      "catch",
+      "come",
+      "offer"
+    ],
+    "emoji": "🫴",
+    "imagePath": "palm-up-hand.png"
+  },
+  {
     "name": "OK hand",
     "slug": "OK-hand",
     "tags": [
@@ -1901,6 +2035,19 @@
     "imagePath": "crossed-fingers.png"
   },
   {
+    "name": "hand with index finger and thumb crossed",
+    "slug": "hand-with-index-finger-and-thumb-crossed",
+    "tags": [
+      "expensive",
+      "heart",
+      "love",
+      "money",
+      "snap"
+    ],
+    "emoji": "🫰",
+    "imagePath": "hand-with-index-finger-and-thumb-crossed.png"
+  },
+  {
     "name": "love-you gesture",
     "slug": "love-you-gesture",
     "tags": [
@@ -1927,7 +2074,9 @@
     "slug": "call-me-hand",
     "tags": [
       "call",
-      "hand"
+      "hand",
+      "hang loose",
+      "Shaka"
     ],
     "emoji": "🤙",
     "imagePath": "call-me-hand.png"
@@ -2006,6 +2155,16 @@
     ],
     "emoji": "☝",
     "imagePath": "index-pointing-up.png"
+  },
+  {
+    "name": "index pointing at the viewer",
+    "slug": "index-pointing-at-the-viewer",
+    "tags": [
+      "point",
+      "you"
+    ],
+    "emoji": "🫵",
+    "imagePath": "index-pointing-at-the-viewer.png"
   },
   {
     "name": "thumbs up",
@@ -2097,6 +2256,15 @@
     ],
     "emoji": "🙌",
     "imagePath": "raising-hands.png"
+  },
+  {
+    "name": "heart hands",
+    "slug": "heart-hands",
+    "tags": [
+      "love"
+    ],
+    "emoji": "🫶",
+    "imagePath": "heart-hands.png"
   },
   {
     "name": "open hands",
@@ -2347,6 +2515,20 @@
     ],
     "emoji": "👄",
     "imagePath": "mouth.png"
+  },
+  {
+    "name": "biting lip",
+    "slug": "biting-lip",
+    "tags": [
+      "anxious",
+      "fear",
+      "flirting",
+      "nervous",
+      "uncomfortable",
+      "worried"
+    ],
+    "emoji": "🫦",
+    "imagePath": "biting-lip.png"
   },
   {
     "name": "baby",
@@ -3709,6 +3891,18 @@
     "imagePath": "woman-construction-worker.png"
   },
   {
+    "name": "person with crown",
+    "slug": "person-with-crown",
+    "tags": [
+      "monarch",
+      "noble",
+      "regal",
+      "royalty"
+    ],
+    "emoji": "🫅",
+    "imagePath": "person-with-crown.png"
+  },
+  {
     "name": "prince",
     "slug": "prince",
     "tags": [],
@@ -3853,6 +4047,30 @@
     ],
     "emoji": "🤰",
     "imagePath": "pregnant-woman.png"
+  },
+  {
+    "name": "pregnant man",
+    "slug": "pregnant-man",
+    "tags": [
+      "belly",
+      "bloated",
+      "full",
+      "pregnant"
+    ],
+    "emoji": "🫃",
+    "imagePath": "pregnant-man.png"
+  },
+  {
+    "name": "pregnant person",
+    "slug": "pregnant-person",
+    "tags": [
+      "belly",
+      "bloated",
+      "full",
+      "pregnant"
+    ],
+    "emoji": "🫄",
+    "imagePath": "pregnant-person.png"
   },
   {
     "name": "breast-feeding",
@@ -4230,6 +4448,17 @@
     ],
     "emoji": "🧟‍♀️",
     "imagePath": "woman-zombie.png"
+  },
+  {
+    "name": "troll",
+    "slug": "troll",
+    "tags": [
+      "fairy tale",
+      "fantasy",
+      "monster"
+    ],
+    "emoji": "🧌",
+    "imagePath": "troll.png"
   },
   {
     "name": "person getting massage",
@@ -5145,6 +5374,7 @@
     "name": "person in bed",
     "slug": "person-in-bed",
     "tags": [
+      "good night",
       "hotel",
       "sleep"
     ],
@@ -6665,6 +6895,16 @@
     "imagePath": "spiral-shell.png"
   },
   {
+    "name": "coral",
+    "slug": "coral",
+    "tags": [
+      "ocean",
+      "reef"
+    ],
+    "emoji": "🪸",
+    "imagePath": "coral.png"
+  },
+  {
     "name": "snail",
     "slug": "snail",
     "tags": [],
@@ -6857,6 +7097,20 @@
     ],
     "emoji": "💮",
     "imagePath": "white-flower.png"
+  },
+  {
+    "name": "lotus",
+    "slug": "lotus",
+    "tags": [
+      "Buddhism",
+      "flower",
+      "Hinduism",
+      "India",
+      "purity",
+      "Vietnam"
+    ],
+    "emoji": "🪷",
+    "imagePath": "lotus.png"
   },
   {
     "name": "rosette",
@@ -7059,6 +7313,33 @@
     ],
     "emoji": "🍃",
     "imagePath": "leaf-fluttering-in-wind.png"
+  },
+  {
+    "name": "empty nest",
+    "slug": "empty-nest",
+    "tags": [
+      "nesting"
+    ],
+    "emoji": "🪹",
+    "imagePath": "empty-nest.png"
+  },
+  {
+    "name": "nest with eggs",
+    "slug": "nest-with-eggs",
+    "tags": [
+      "nesting"
+    ],
+    "emoji": "🪺",
+    "imagePath": "nest-with-eggs.png"
+  },
+  {
+    "name": "mushroom",
+    "slug": "mushroom",
+    "tags": [
+      "toadstool"
+    ],
+    "emoji": "🍄",
+    "imagePath": "mushroom.png"
   },
   {
     "name": "grapes",
@@ -7374,15 +7655,6 @@
     "imagePath": "onion.png"
   },
   {
-    "name": "mushroom",
-    "slug": "mushroom",
-    "tags": [
-      "toadstool"
-    ],
-    "emoji": "🍄",
-    "imagePath": "mushroom.png"
-  },
-  {
     "name": "peanuts",
     "slug": "peanuts",
     "tags": [
@@ -7393,6 +7665,17 @@
     ],
     "emoji": "🥜",
     "imagePath": "peanuts.png"
+  },
+  {
+    "name": "beans",
+    "slug": "beans",
+    "tags": [
+      "food",
+      "kidney",
+      "legume"
+    ],
+    "emoji": "🫘",
+    "imagePath": "beans.png"
   },
   {
     "name": "chestnut",
@@ -8340,6 +8623,18 @@
     "imagePath": "tumbler-glass.png"
   },
   {
+    "name": "pouring liquid",
+    "slug": "pouring-liquid",
+    "tags": [
+      "drink",
+      "empty",
+      "glass",
+      "spill"
+    ],
+    "emoji": "🫗",
+    "imagePath": "pouring-liquid.png"
+  },
+  {
     "name": "cup with straw",
     "slug": "cup-with-straw",
     "tags": [
@@ -8453,6 +8748,19 @@
     ],
     "emoji": "🔪",
     "imagePath": "kitchen-knife.png"
+  },
+  {
+    "name": "jar",
+    "slug": "jar",
+    "tags": [
+      "condiment",
+      "container",
+      "empty",
+      "sauce",
+      "store"
+    ],
+    "emoji": "🫙",
+    "imagePath": "jar.png"
   },
   {
     "name": "amphora",
@@ -9079,6 +9387,16 @@
     "imagePath": "carousel-horse.png"
   },
   {
+    "name": "playground slide",
+    "slug": "playground-slide",
+    "tags": [
+      "amusement park",
+      "play"
+    ],
+    "emoji": "🛝",
+    "imagePath": "playground-slide.png"
+  },
+  {
     "name": "ferris wheel",
     "slug": "ferris-wheel",
     "tags": [
@@ -9569,6 +9887,17 @@
     "imagePath": "fuel-pump.png"
   },
   {
+    "name": "wheel",
+    "slug": "wheel",
+    "tags": [
+      "circle",
+      "tire",
+      "turn"
+    ],
+    "emoji": "🛞",
+    "imagePath": "wheel.png"
+  },
+  {
     "name": "police car light",
     "slug": "police-car-light",
     "tags": [
@@ -9632,6 +9961,19 @@
     ],
     "emoji": "⚓",
     "imagePath": "anchor.png"
+  },
+  {
+    "name": "ring buoy",
+    "slug": "ring-buoy",
+    "tags": [
+      "float",
+      "life preserver",
+      "life saver",
+      "rescue",
+      "safety"
+    ],
+    "emoji": "🛟",
+    "imagePath": "ring-buoy.png"
   },
   {
     "name": "sailboat",
@@ -11365,6 +11707,21 @@
     "imagePath": "kite.png"
   },
   {
+    "name": "water pistol",
+    "slug": "water-pistol",
+    "tags": [
+      "gun",
+      "handgun",
+      "pistol",
+      "revolver",
+      "tool",
+      "water",
+      "weapon"
+    ],
+    "emoji": "🔫",
+    "imagePath": "water-pistol.png"
+  },
+  {
     "name": "pool 8 ball",
     "slug": "pool-8-ball",
     "tags": [
@@ -11401,19 +11758,6 @@
     ],
     "emoji": "🪄",
     "imagePath": "magic-wand.png"
-  },
-  {
-    "name": "nazar amulet",
-    "slug": "nazar-amulet",
-    "tags": [
-      "bead",
-      "charm",
-      "evil-eye",
-      "nazar",
-      "talisman"
-    ],
-    "emoji": "🧿",
-    "imagePath": "nazar-amulet.png"
   },
   {
     "name": "video game",
@@ -11490,6 +11834,18 @@
     ],
     "emoji": "🪅",
     "imagePath": "piñata.png"
+  },
+  {
+    "name": "mirror ball",
+    "slug": "mirror-ball",
+    "tags": [
+      "dance",
+      "disco",
+      "glitter",
+      "party"
+    ],
+    "emoji": "🪩",
+    "imagePath": "mirror-ball.png"
   },
   {
     "name": "nesting dolls",
@@ -12512,6 +12868,16 @@
     "imagePath": "battery.png"
   },
   {
+    "name": "low battery",
+    "slug": "low-battery",
+    "tags": [
+      "electronic",
+      "low energy"
+    ],
+    "emoji": "🪫",
+    "imagePath": "low-battery.png"
+  },
+  {
     "name": "electric plug",
     "slug": "electric-plug",
     "tags": [
@@ -12606,7 +12972,7 @@
     "name": "optical disk",
     "slug": "optical-disk",
     "tags": [
-      "cd",
+      "CD",
       "computer",
       "disk",
       "optical"
@@ -12618,9 +12984,10 @@
     "name": "dvd",
     "slug": "dvd",
     "tags": [
-      "blu-ray",
+      "Blu-ray",
       "computer",
       "disk",
+      "DVD",
       "optical"
     ],
     "emoji": "📀",
@@ -13699,19 +14066,13 @@
     "imagePath": "crossed-swords.png"
   },
   {
-    "name": "water pistol",
-    "slug": "water-pistol",
+    "name": "bomb",
+    "slug": "bomb",
     "tags": [
-      "gun",
-      "handgun",
-      "pistol",
-      "revolver",
-      "tool",
-      "water",
-      "weapon"
+      "comic"
     ],
-    "emoji": "🔫",
-    "imagePath": "water-pistol.png"
+    "emoji": "💣",
+    "imagePath": "bomb.png"
   },
   {
     "name": "boomerang",
@@ -14022,6 +14383,19 @@
     "imagePath": "adhesive-bandage.png"
   },
   {
+    "name": "crutch",
+    "slug": "crutch",
+    "tags": [
+      "cane",
+      "disability",
+      "hurt",
+      "mobility aid",
+      "stick"
+    ],
+    "emoji": "🩼",
+    "imagePath": "crutch.png"
+  },
+  {
     "name": "stethoscope",
     "slug": "stethoscope",
     "tags": [
@@ -14031,6 +14405,18 @@
     ],
     "emoji": "🩺",
     "imagePath": "stethoscope.png"
+  },
+  {
+    "name": "x-ray",
+    "slug": "x-ray",
+    "tags": [
+      "bones",
+      "doctor",
+      "medical",
+      "skeleton"
+    ],
+    "emoji": "🩻",
+    "imagePath": "x-ray.png"
   },
   {
     "name": "door",
@@ -14243,6 +14629,18 @@
     "imagePath": "soap.png"
   },
   {
+    "name": "bubbles",
+    "slug": "bubbles",
+    "tags": [
+      "burp",
+      "clean",
+      "soap",
+      "underwater"
+    ],
+    "emoji": "🫧",
+    "imagePath": "bubbles.png"
+  },
+  {
     "name": "toothbrush",
     "slug": "toothbrush",
     "tags": [
@@ -14332,6 +14730,33 @@
     "imagePath": "funeral-urn.png"
   },
   {
+    "name": "nazar amulet",
+    "slug": "nazar-amulet",
+    "tags": [
+      "bead",
+      "charm",
+      "evil-eye",
+      "nazar",
+      "talisman"
+    ],
+    "emoji": "🧿",
+    "imagePath": "nazar-amulet.png"
+  },
+  {
+    "name": "hamsa",
+    "slug": "hamsa",
+    "tags": [
+      "amulet",
+      "Fatima",
+      "hand",
+      "Mary",
+      "Miriam",
+      "protection"
+    ],
+    "emoji": "🪬",
+    "imagePath": "hamsa.png"
+  },
+  {
     "name": "moai",
     "slug": "moai",
     "tags": [
@@ -14355,10 +14780,22 @@
     "imagePath": "placard.png"
   },
   {
+    "name": "identification card",
+    "slug": "identification-card",
+    "tags": [
+      "credentials",
+      "ID",
+      "license",
+      "security"
+    ],
+    "emoji": "🪪",
+    "imagePath": "identification-card.png"
+  },
+  {
     "name": "ATM sign",
     "slug": "ATM-sign",
     "tags": [
-      "atm",
+      "ATM",
       "automated",
       "bank",
       "teller"
@@ -14400,10 +14837,12 @@
     "name": "men’s room",
     "slug": "men’s-room",
     "tags": [
+      "bathroom",
       "lavatory",
       "man",
       "restroom",
-      "wc"
+      "toilet",
+      "WC"
     ],
     "emoji": "🚹",
     "imagePath": "men’s-room.png"
@@ -14412,9 +14851,11 @@
     "name": "women’s room",
     "slug": "women’s-room",
     "tags": [
+      "bathroom",
       "lavatory",
       "restroom",
-      "wc",
+      "toilet",
+      "WC",
       "woman"
     ],
     "emoji": "🚺",
@@ -14424,7 +14865,9 @@
     "name": "restroom",
     "slug": "restroom",
     "tags": [
+      "bathroom",
       "lavatory",
+      "toilet",
       "WC"
     ],
     "emoji": "🚻",
@@ -14444,11 +14887,13 @@
     "name": "water closet",
     "slug": "water-closet",
     "tags": [
+      "bathroom",
       "closet",
       "lavatory",
       "restroom",
+      "toilet",
       "water",
-      "wc"
+      "WC"
     ],
     "emoji": "🚾",
     "imagePath": "water-closet.png"
@@ -14823,7 +15268,7 @@
     "slug": "BACK-arrow",
     "tags": [
       "arrow",
-      "back"
+      "BACK"
     ],
     "emoji": "🔙",
     "imagePath": "BACK-arrow.png"
@@ -14833,7 +15278,7 @@
     "slug": "END-arrow",
     "tags": [
       "arrow",
-      "end"
+      "END"
     ],
     "emoji": "🔚",
     "imagePath": "END-arrow.png"
@@ -14844,7 +15289,8 @@
     "tags": [
       "arrow",
       "mark",
-      "on"
+      "ON",
+      "ON!"
     ],
     "emoji": "🔛",
     "imagePath": "ON!-arrow.png"
@@ -14854,7 +15300,7 @@
     "slug": "SOON-arrow",
     "tags": [
       "arrow",
-      "soon"
+      "SOON"
     ],
     "emoji": "🔜",
     "imagePath": "SOON-arrow.png"
@@ -14864,7 +15310,7 @@
     "slug": "TOP-arrow",
     "tags": [
       "arrow",
-      "top",
+      "TOP",
       "up"
     ],
     "emoji": "🔝",
@@ -15258,8 +15704,7 @@
     "slug": "upwards-button",
     "tags": [
       "arrow",
-      "button",
-      "red"
+      "button"
     ],
     "emoji": "🔼",
     "imagePath": "upwards-button.png"
@@ -15280,8 +15725,7 @@
     "tags": [
       "arrow",
       "button",
-      "down",
-      "red"
+      "down"
     ],
     "emoji": "🔽",
     "imagePath": "downwards-button.png"
@@ -15484,6 +15928,16 @@
     ],
     "emoji": "➗",
     "imagePath": "divide.png"
+  },
+  {
+    "name": "heavy equals sign",
+    "slug": "heavy-equals-sign",
+    "tags": [
+      "equality",
+      "math"
+    ],
+    "emoji": "🟰",
+    "imagePath": "heavy-equals-sign.png"
   },
   {
     "name": "infinity",
@@ -15808,7 +16262,7 @@
     "name": "copyright",
     "slug": "copyright",
     "tags": [
-      "c"
+      "C"
     ],
     "emoji": "©",
     "imagePath": "copyright.png"
@@ -15817,7 +16271,7 @@
     "name": "registered",
     "slug": "registered",
     "tags": [
-      "r"
+      "R"
     ],
     "emoji": "®",
     "imagePath": "registered.png"
@@ -15827,7 +16281,7 @@
     "slug": "trade-mark",
     "tags": [
       "mark",
-      "tm",
+      "TM",
       "trademark"
     ],
     "emoji": "™",
@@ -16014,7 +16468,7 @@
     "name": "A button (blood type)",
     "slug": "A-button-(blood-type)",
     "tags": [
-      "a",
+      "A",
       "blood type"
     ],
     "emoji": "🅰",
@@ -16024,7 +16478,7 @@
     "name": "AB button (blood type)",
     "slug": "AB-button-(blood-type)",
     "tags": [
-      "ab",
+      "AB",
       "blood type"
     ],
     "emoji": "🆎",
@@ -16034,7 +16488,7 @@
     "name": "B button (blood type)",
     "slug": "B-button-(blood-type)",
     "tags": [
-      "b",
+      "B",
       "blood type"
     ],
     "emoji": "🅱",
@@ -16044,7 +16498,7 @@
     "name": "CL button",
     "slug": "CL-button",
     "tags": [
-      "cl"
+      "CL"
     ],
     "emoji": "🆑",
     "imagePath": "CL-button.png"
@@ -16053,7 +16507,7 @@
     "name": "COOL button",
     "slug": "COOL-button",
     "tags": [
-      "cool"
+      "COOL"
     ],
     "emoji": "🆒",
     "imagePath": "COOL-button.png"
@@ -16062,7 +16516,7 @@
     "name": "FREE button",
     "slug": "FREE-button",
     "tags": [
-      "free"
+      "FREE"
     ],
     "emoji": "🆓",
     "imagePath": "FREE-button.png"
@@ -16080,7 +16534,7 @@
     "name": "ID button",
     "slug": "ID-button",
     "tags": [
-      "id",
+      "ID",
       "identity"
     ],
     "emoji": "🆔",
@@ -16091,7 +16545,7 @@
     "slug": "circled-M",
     "tags": [
       "circle",
-      "m"
+      "M"
     ],
     "emoji": "Ⓜ",
     "imagePath": "circled-M.png"
@@ -16100,7 +16554,7 @@
     "name": "NEW button",
     "slug": "NEW-button",
     "tags": [
-      "new"
+      "NEW"
     ],
     "emoji": "🆕",
     "imagePath": "NEW-button.png"
@@ -16109,7 +16563,7 @@
     "name": "NG button",
     "slug": "NG-button",
     "tags": [
-      "ng"
+      "NG"
     ],
     "emoji": "🆖",
     "imagePath": "NG-button.png"
@@ -16119,7 +16573,7 @@
     "slug": "O-button-(blood-type)",
     "tags": [
       "blood type",
-      "o"
+      "O"
     ],
     "emoji": "🅾",
     "imagePath": "O-button-(blood-type).png"
@@ -16137,6 +16591,7 @@
     "name": "P button",
     "slug": "P-button",
     "tags": [
+      "P",
       "parking"
     ],
     "emoji": "🅿",
@@ -16147,7 +16602,7 @@
     "slug": "SOS-button",
     "tags": [
       "help",
-      "sos"
+      "SOS"
     ],
     "emoji": "🆘",
     "imagePath": "SOS-button.png"
@@ -16157,7 +16612,8 @@
     "slug": "UP!-button",
     "tags": [
       "mark",
-      "up"
+      "UP",
+      "UP!"
     ],
     "emoji": "🆙",
     "imagePath": "UP!-button.png"
@@ -16167,7 +16623,7 @@
     "slug": "VS-button",
     "tags": [
       "versus",
-      "vs"
+      "VS"
     ],
     "emoji": "🆚",
     "imagePath": "VS-button.png"
